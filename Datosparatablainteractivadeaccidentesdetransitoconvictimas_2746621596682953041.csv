@@ -1,0 +1,1000 @@
+﻿A_Accidente,Clase de accidente,Tipo de accidente,Año,Mes,Día,Hora,Hora recodificada,Provincia,Cantón,Distrito,Ruta,Kilómetro,Tipo ruta,Rural o urbano,Calzada vertical,Calzada horizontal,Tipo de calzada,Estado del tiempo,Tipo de circulación,Dia,Mes
+1,Con muertos o graves,Salió de la vía,2015,Enero,Domingo,21,18:00-23:59,Puntarenas,Coto Brus,Sabalito,617,11,Nacional,Urbana,Desconocida,Curva,Asfalto,Oscuro,Objeto Fijo,1.Domingo,A. Enero
+1,Solo heridos leves,Atropello a persona,2014,Abril,Jueves,8,06:00-11:59,San José,San José,Hospital,2,2,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,5.Jueves,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Lunes,17,12:00-17:59,San José,San José,Uruca,1,4,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia intensa,Por detrás,2.Lunes,D. Abril
+1,Con muertos o graves,Colisión con motocicleta,2014,Junio,Viernes,2,00:00-05:59,San José,Puriscal,Santiago,239,19,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,De frente,6.Viernes,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2017,Octubre,Domingo,20,18:00-23:59,San José,Pérez Zeledón,Daniel Flores,2,141,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,Lateral igual sentido,1.Domingo,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Sábado,9,06:00-11:59,Heredia,Santa Bárbara,Jesús,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Desconocida,Asfalto,Buen tiempo,De frente,7.Sábado,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Miércoles,15,12:00-17:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,4.Miércoles,A. Enero
+1,Solo heridos leves,Salió de la vía,2014,Enero,Viernes,21,18:00-23:59,Heredia,San Rafael,Concepción,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Lastre,Buen tiempo,De Costado,6.Viernes,A. Enero
+1,Con muertos o graves,Atropello a persona,2014,Enero,Jueves,9,06:00-11:59,Heredia,San Rafael,San Rafael,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,5.Jueves,A. Enero
+1,Solo heridos leves,Atropello a persona,2014,Enero,Viernes,7,06:00-11:59,Heredia,Heredia,San Francisco,111,1,Nacional,Urbana,Plano,Desconocida,Concreto,Despejado,De frente,6.Viernes,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Domingo,17,12:00-17:59,Heredia,Heredia,Ulloa,1,8,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Angulo recto,1.Domingo,A. Enero
+1,Con muertos o graves,Colisión con motocicleta,2014,Enero,Miércoles,16,12:00-17:59,Heredia,Heredia,Mercedes,Cantonal,Cantonal,Cantonal,Urbana,Plano,Curva,Asfalto,Despejado,De Costado,4.Miércoles,A. Enero
+1,Solo heridos leves,Atropello a persona,2014,Enero,Jueves,17,12:00-17:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,De Costado,5.Jueves,A. Enero
+1,Solo heridos leves,Atropello animal,2014,Enero,Viernes,17,12:00-17:59,Heredia,San Rafael,San Josecito,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Desconocida,Asfalto,Buen tiempo,De frente,6.Viernes,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Domingo,12,12:00-17:59,Heredia,San Rafael,San Rafael,116,14,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,1.Domingo,A. Enero
+1,Solo heridos leves,Colisión entre vehículos,2014,Enero,Martes,10,06:00-11:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,3.Martes,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Domingo,10,06:00-11:59,Heredia,Santo Domingo,Tures,116,4,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De Costado,1.Domingo,B. Febrero
+1,Solo heridos leves,Colisión entre vehículos,2014,Febrero,Miércoles,17,12:00-17:59,Heredia,Belén,La Asunción,111,4,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,4.Miércoles,B. Febrero
+1,Solo heridos leves,Colisión entre vehículos,2014,Febrero,Viernes,8,06:00-11:59,Heredia,Santo Domingo,Santo Domingo,116,0,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,6.Viernes,B. Febrero
+1,Con muertos o graves,Colisión con bicicleta,2014,Febrero,Miércoles,6,06:00-11:59,Heredia,Heredia,San Francisco,3,8,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,De Costado,4.Miércoles,B. Febrero
+1,Solo heridos leves,Colisión entre vehículos,2014,Febrero,Sábado,12,12:00-17:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,De Costado,7.Sábado,B. Febrero
+1,Solo heridos leves,Vuelco,2014,Febrero,Domingo,18,18:00-23:59,Heredia,Heredia,San Francisco,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,1.Domingo,B. Febrero
+1,Solo heridos leves,Atropello a persona,2014,Febrero,Lunes,17,12:00-17:59,Heredia,Barva,San Pablo,126,3,Nacional,Urbana,Plano,Desconocida,Asfalto,Despejado,De Costado,2.Lunes,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Lunes,19,18:00-23:59,Heredia,San Pablo,San Pablo,112,0,Nacional,Urbana,Pendiente,Desconocida,Asfalto,Oscuro,De Costado,2.Lunes,B. Febrero
+1,Solo heridos leves,Colisión entre vehículos,2014,Febrero,Lunes,6,06:00-11:59,Heredia,Belén,La Asunción,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,2.Lunes,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Martes,7,06:00-11:59,Heredia,San Isidro,San Isidro,116,7,Nacional,Urbana,Pendiente,Cruce,Asfalto,Despejado,De Costado,3.Martes,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Viernes,8,06:00-11:59,Heredia,Santo Domingo,Santo Domingo,5,5,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,De Costado,6.Viernes,B. Febrero
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Sábado,12,12:00-17:59,Heredia,Heredia,Mercedes,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Curva,Asfalto,Despejado,De frente,7.Sábado,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Domingo,14,12:00-17:59,Heredia,Heredia,Mercedes,Cantonal,Cantonal,Cantonal,Urbana,Plano,Curva,Asfalto,Despejado,De frente,1.Domingo,C. Marzo
+1,Con muertos o graves,Colisión entre vehículos,2014,Marzo,Domingo,16,12:00-17:59,Heredia,Heredia,Heredia,5,8,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,1.Domingo,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Domingo,21,18:00-23:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Oscuro,Angulo recto,1.Domingo,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Miércoles,18,18:00-23:59,Heredia,Belén,La Ribera,3,12,Nacional,Urbana,Plano,Cruce,Asfalto,Oscuro,Angulo recto,4.Miércoles,C. Marzo
+1,Solo heridos leves,Colisión con bicicleta,2014,Marzo,Viernes,15,12:00-17:59,Heredia,Flores,Barrantes,119,4,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,6.Viernes,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Jueves,7,06:00-11:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,5.Jueves,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Lunes,18,18:00-23:59,Heredia,Heredia,San Francisco,111,2,Nacional,Urbana,Plano,Recta,Concreto,Lluvia escasa,De Costado,2.Lunes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Martes,6,06:00-11:59,Heredia,Barva,San Roque,Ignorada,#NULL!,Ignorada,Desconocida,Plano,Cruce,Asfalto,Despejado,Angulo recto,3.Martes,C. Marzo
+1,Solo heridos leves,Atropello a persona,2014,Marzo,Miércoles,7,06:00-11:59,Heredia,Heredia,San Francisco,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,4.Miércoles,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Miércoles,8,06:00-11:59,Heredia,Barva,Barva,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Despejado,Por detrás,4.Miércoles,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Jueves,7,06:00-11:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,5.Jueves,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Lunes,16,12:00-17:59,Heredia,Barva,San Pedro,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Lastre,Despejado,De Costado,2.Lunes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Martes,21,18:00-23:59,Heredia,San Rafael,San Josecito,113,2,Nacional,Urbana,Plano,Cruce,Asfalto,Oscuro,De Costado,3.Martes,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Lunes,6,06:00-11:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Adoquin,Despejado,Angulo recto,2.Lunes,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Martes,9,06:00-11:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Despejado,Angulo recto,3.Martes,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Viernes,9,06:00-11:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,6.Viernes,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Lunes,6,06:00-11:59,Heredia,San Rafael,Santiago,113,100.00%,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Por detrás,2.Lunes,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Miércoles,8,06:00-11:59,Heredia,Santo Domingo,Tures,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,4.Miércoles,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Miércoles,9,06:00-11:59,Heredia,Santo Domingo,Santa Rosa,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,De Costado,4.Miércoles,E. Mayo
+1,Solo heridos leves,Colisión con objeto fijo,2014,Mayo,Sábado,13,12:00-17:59,Heredia,Santo Domingo,Santa Rosa,5,4,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,7.Sábado,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Viernes,6,06:00-11:59,Heredia,Heredia,Ulloa,106,2,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,Angulo recto,6.Viernes,E. Mayo
+1,Solo heridos leves,Colisión con bicicleta,2014,Mayo,Viernes,8,06:00-11:59,Heredia,Flores,San Joaquín,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,6.Viernes,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Viernes,11,06:00-11:59,Heredia,Santo Domingo,Santo Domingo,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,6.Viernes,E. Mayo
+1,Solo heridos leves,Colisión entre vehículos,2014,Mayo,Sábado,13,12:00-17:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,7.Sábado,E. Mayo
+1,Solo heridos leves,Colisión con objeto fijo,2014,Mayo,Sábado,16,12:00-17:59,Heredia,Belén,San Antonio,111,8,Nacional,Urbana,Plano,Curva,Asfalto,Despejado,De frente,7.Sábado,E. Mayo
+1,Solo heridos leves,Colisión con objeto fijo,2014,Mayo,Sábado,19,18:00-23:59,Heredia,Belén,San Antonio,111,7,Nacional,Urbana,Plano,Desconocida,Asfalto,Oscuro,De frente,7.Sábado,E. Mayo
+1,Solo heridos leves,Atropello a persona,2014,Junio,Martes,15,12:00-17:59,Heredia,Heredia,Ulloa,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Concreto,Despejado,De Costado,3.Martes,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Miércoles,17,12:00-17:59,Heredia,San Rafael,San Josecito,126,1,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Por detrás,4.Miércoles,F. Junio
+1,Solo heridos leves,Colisión entre vehículos,2014,Junio,Viernes,14,12:00-17:59,Heredia,Santo Domingo,San Vicente,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Por detrás,6.Viernes,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Viernes,17,12:00-17:59,Heredia,San Isidro,San José,112,8,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,Angulo recto,6.Viernes,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Lunes,12,12:00-17:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,2.Lunes,F. Junio
+1,Con muertos o graves,Colisión con motocicleta,2014,Junio,Miércoles,6,06:00-11:59,Heredia,Santa Bárbara,Purabá,Cantonal,Cantonal,Cantonal,Rural,Plano,Curva,Asfalto,Despejado,De Costado,4.Miércoles,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Jueves,8,06:00-11:59,Heredia,Flores,Llorente,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Despejado,De Costado,5.Jueves,F. Junio
+1,Solo heridos leves,Colisión entre vehículos,2014,Junio,Miércoles,18,18:00-23:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Lluvia mediana,Angulo recto,4.Miércoles,F. Junio
+1,Solo heridos leves,Colisión entre vehículos,2014,Junio,Lunes,12,12:00-17:59,Heredia,San Rafael,Ángeles,502,1,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,De frente,2.Lunes,F. Junio
+1,Solo heridos leves,Colisión entre vehículos,2014,Julio,Jueves,12,12:00-17:59,Heredia,Santo Domingo,Santo Domingo,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,5.Jueves,G. Julio
+1,Solo heridos leves,Atropello a persona,2014,Julio,Viernes,6,06:00-11:59,Heredia,Belén,La Ribera,1,10,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,6.Viernes,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Julio,Viernes,9,06:00-11:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,6.Viernes,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Sábado,12,12:00-17:59,Heredia,San Pablo,San Pablo,5,7,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De frente,7.Sábado,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Julio,Martes,20,18:00-23:59,Heredia,Heredia,Heredia,113,0,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,Por detrás,3.Martes,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Lunes,18,18:00-23:59,Heredia,Heredia,Ulloa,171,2,Nacional,Urbana,Plano,Desconocida,Asfalto,Lluvia escasa,De frente,2.Lunes,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Lunes,17,12:00-17:59,Heredia,Heredia,Mercedes,126,1,Nacional,Urbana,Plano,Cruce,Asfalto,Oscuro,Por detrás,2.Lunes,H. Agosto
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Lunes,20,18:00-23:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Oscuro,Angulo recto,2.Lunes,H. Agosto
+1,Con muertos o graves,Colisión con motocicleta,2014,Agosto,Martes,18,18:00-23:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Oscuro,Angulo recto,3.Martes,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Sábado,17,12:00-17:59,Heredia,Heredia,Ulloa,106,5,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Angulo recto,7.Sábado,H. Agosto
+1,Con muertos o graves,Colisión con motocicleta,2014,Octubre,Domingo,13,12:00-17:59,Heredia,Heredia,Heredia,3,6,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,1.Domingo,J. Octubre
+1,Con muertos o graves,Colisión con motocicleta,2014,Octubre,Lunes,7,06:00-11:59,Heredia,Santo Domingo,Santo Domingo,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,2.Lunes,J. Octubre
+1,Solo heridos leves,Atropello a persona,2014,Octubre,Viernes,12,12:00-17:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,De frente,6.Viernes,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Lunes,15,12:00-17:59,Heredia,Santo Domingo,Santo Domingo,5,5,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,2.Lunes,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Jueves,15,12:00-17:59,Heredia,Heredia,San Francisco,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Concreto,Despejado,Angulo recto,5.Jueves,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Viernes,16,12:00-17:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Oscuro,Angulo recto,6.Viernes,J. Octubre
+1,Solo heridos leves,Vuelco,2014,Noviembre,Sábado,20,18:00-23:59,Heredia,Heredia,San Francisco,111,1,Nacional,Urbana,Plano,Desconocida,Concreto,Lluvia intensa,De Costado,7.Sábado,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Sábado,10,06:00-11:59,Heredia,Heredia,Heredia,3,5,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,Por detrás,7.Sábado,K. Noviembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Jueves,14,12:00-17:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,De Costado,5.Jueves,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Lunes,12,12:00-17:59,Heredia,San Isidro,San José,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,2.Lunes,K. Noviembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Noviembre,Martes,6,06:00-11:59,Heredia,San Rafael,San Rafael,502,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Por detrás,3.Martes,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Martes,10,06:00-11:59,Heredia,Heredia,Heredia,3,6,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,3.Martes,K. Noviembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Jueves,13,12:00-17:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Despejado,Angulo recto,5.Jueves,K. Noviembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Domingo,14,12:00-17:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,1.Domingo,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Miércoles,10,06:00-11:59,Heredia,Barva,Santa Lucía,126,1,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,4.Miércoles,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Martes,9,06:00-11:59,Heredia,San Pablo,San Pablo,5,7,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De frente,3.Martes,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Sábado,13,12:00-17:59,Heredia,San Pablo,Rincón de Sabanilla,5,6,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,7.Sábado,L. Diciembre
+1,Solo heridos leves,Atropello a persona,2014,Diciembre,Lunes,19,18:00-23:59,Heredia,Santo Domingo,Tures,116,4,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,De frente,2.Lunes,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Viernes,16,12:00-17:59,Heredia,Heredia,San Francisco,3,5,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,De Costado,6.Viernes,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Sábado,21,18:00-23:59,Heredia,Heredia,Ulloa,Cantonal,Cantonal,Cantonal,Urbana,Plano,Curva,Asfalto,Oscuro,De Costado,7.Sábado,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Viernes,6,06:00-11:59,Heredia,Heredia,Ulloa,106,5,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,6.Viernes,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Lunes,14,12:00-17:59,Heredia,Heredia,Heredia,126,0,Nacional,Urbana,Plano,Desconocida,Asfalto,Despejado,De Costado,2.Lunes,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Lunes,9,06:00-11:59,Heredia,Barva,San Pablo,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,2.Lunes,L. Diciembre
+1,Solo heridos leves,Atropello a persona,2014,Abril,Jueves,16,12:00-17:59,Limón,Pococí,La Colonia,247,3,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Otro,5.Jueves,D. Abril
+1,Solo heridos leves,Colisión con bicicleta,2014,Abril,Jueves,19,18:00-23:59,Limón,Guácimo,Guácimo,248,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,5.Jueves,D. Abril
+1,Solo heridos leves,Vuelco,2014,Abril,Lunes,4,00:00-05:59,Limón,Pococí,La Colonia,247,3,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De frente,2.Lunes,D. Abril
+1,Solo heridos leves,Salió de la vía,2014,Abril,Sábado,10,06:00-11:59,Limón,Pococí,Roxana,248,32,Nacional,Rural,Plano,Curva,Asfalto,Buen tiempo,De frente,7.Sábado,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Enero,Miércoles,19,18:00-23:59,Cartago,El Guarco,San Isidro,2,37,Nacional,Rural,Plano,Curva,Asfalto,Buen tiempo,Angulo recto,4.Miércoles,A. Enero
+1,Solo heridos leves,Salió de la vía,2014,Abril,Lunes,16,12:00-17:59,San José,Dota,Copey,2,81,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De frente,2.Lunes,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Jueves,11,06:00-11:59,Cartago,El Guarco,San Isidro,2,71,Nacional,Rural,Pendiente,Curva,Asfalto,Lluvia escasa,De frente,5.Jueves,D. Abril
+1,Solo heridos leves,Vuelco,2014,Junio,Miércoles,7,06:00-11:59,Cartago,El Guarco,San Isidro,2,73,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De frente,4.Miércoles,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Viernes,14,12:00-17:59,Cartago,Cartago,Guadalupe o Arenilla,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,6.Viernes,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Martes,13,12:00-17:59,Cartago,El Guarco,San Isidro,2,27,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,3.Martes,K. Noviembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Marzo,Viernes,14,12:00-17:59,San José,San José,San Sebastián,39,8,Nacional,Urbana,Plano,Rotonda,Asfalto,Despejado,De Costado,6.Viernes,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Viernes,7,06:00-11:59,Heredia,Heredia,Ulloa,3,1,Nacional,Urbana,Plano,Recta,Concreto,Despejado,Por detrás,6.Viernes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Viernes,15,12:00-17:59,San José,Tibás,San Juan,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Despejado,De Costado,6.Viernes,F. Junio
+1,Solo heridos leves,Vuelco,2014,Junio,Viernes,20,18:00-23:59,San José,Moravia,San Vicente,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,6.Viernes,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Viernes,21,18:00-23:59,San José,Goicoechea,Guadalupe,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Oscuro,De Costado,6.Viernes,F. Junio
+1,Solo heridos leves,Colisión entre vehículos,2014,Julio,Lunes,13,12:00-17:59,San José,Goicoechea,Ipís,218,8,Nacional,Urbana,Pendiente,Cruce,Asfalto,Despejado,Por detrás,2.Lunes,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Jueves,8,06:00-11:59,San José,Tibás,San Juan,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,De Costado,5.Jueves,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Martes,18,18:00-23:59,San José,Tibás,Anselmo Llorente,101,2,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,3.Martes,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Julio,Jueves,21,18:00-23:59,San José,Moravia,San Vicente,102,1,Nacional,Urbana,Plano,Recta,Asfalto,Oscuro,Por detrás,5.Jueves,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Miércoles,17,12:00-17:59,San José,Tibás,Colima,101,0,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,4.Miércoles,H. Agosto
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Sábado,8,06:00-11:59,San José,Goicoechea,Ipís,218,6,Nacional,Urbana,Plano,Cruce,Concreto,Despejado,Por detrás,7.Sábado,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Viernes,13,12:00-17:59,San José,Goicoechea,Ipís,218,5,Nacional,Urbana,Pendiente,Cruce,Concreto,Despejado,Angulo recto,6.Viernes,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Jueves,9,06:00-11:59,San José,Goicoechea,Guadalupe,201,0,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,Por detrás,5.Jueves,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Miércoles,10,06:00-11:59,San José,Vázquez de Coronado,San Isidro,102,7,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,4.Miércoles,I. Setiembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Setiembre,Viernes,8,06:00-11:59,San José,Moravia,San Vicente,102,4,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,Por detrás,6.Viernes,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Jueves,5,00:00-05:59,San José,Goicoechea,Guadalupe,218,2,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,5.Jueves,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Viernes,10,06:00-11:59,San José,Goicoechea,Guadalupe,218,1,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,6.Viernes,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Domingo,7,06:00-11:59,San José,Moravia,San Vicente,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,1.Domingo,J. Octubre
+1,Solo heridos leves,Atropello a persona,2014,Noviembre,Sábado,11,06:00-11:59,San José,Goicoechea,Guadalupe,218,2,Nacional,Urbana,Plano,Desconocida,Asfalto,Despejado,Desconocido,7.Sábado,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Jueves,12,12:00-17:59,San José,Moravia,San Vicente,109,2,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,De Costado,5.Jueves,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Viernes,19,18:00-23:59,San José,Goicoechea,Ipís,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Lluvia escasa,De Costado,6.Viernes,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Viernes,19,18:00-23:59,San José,Goicoechea,Mata de Plátano,205,3,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,De Costado,6.Viernes,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Lunes,12,12:00-17:59,San José,Goicoechea,Guadalupe,218,1,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,2.Lunes,L. Diciembre
+1,Solo heridos leves,Atropello a persona,2014,Diciembre,Martes,12,12:00-17:59,San José,Tibás,San Juan,5,1,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,Desconocido,3.Martes,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Febrero,Miércoles,7,06:00-11:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Concreto,Despejado,Angulo recto,4.Miércoles,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Lunes,10,06:00-11:59,Heredia,Heredia,Ulloa,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Desconocida,Asfalto,Despejado,De Costado,2.Lunes,B. Febrero
+1,Con muertos o graves,Colisión con motocicleta,2014,Febrero,Jueves,7,06:00-11:59,Heredia,Heredia,Mercedes,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Cruce,Asfalto,Despejado,Angulo recto,5.Jueves,B. Febrero
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Lunes,12,12:00-17:59,Heredia,Heredia,San Francisco,3,8,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,2.Lunes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Lunes,7,06:00-11:59,Heredia,Barva,San Roque,128,4,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,Por detrás,2.Lunes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Miércoles,8,06:00-11:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Cruce,Asfalto,Despejado,De Costado,4.Miércoles,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Jueves,10,06:00-11:59,Heredia,Heredia,Ulloa,111,3,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,5.Jueves,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Jueves,8,06:00-11:59,Heredia,Heredia,Ulloa,171,2,Nacional,Urbana,Pendiente,Cruce,Asfalto,Despejado,Angulo recto,5.Jueves,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Jueves,7,06:00-11:59,Heredia,Heredia,San Francisco,111,0,Nacional,Urbana,Plano,Cruce,Concreto,Despejado,De Costado,5.Jueves,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Julio,Lunes,8,06:00-11:59,Heredia,Heredia,Mercedes,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,2.Lunes,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Martes,15,12:00-17:59,Heredia,Heredia,Heredia,171,0,Nacional,Urbana,Pendiente,Cruce,Asfalto,Despejado,Angulo recto,3.Martes,G. Julio
+1,Con muertos o graves,Atropello a persona,2014,Octubre,Lunes,7,06:00-11:59,Heredia,Barva,San Pablo,502,5,Nacional,Urbana,Pendiente,Cruce,Asfalto,Despejado,Desconocido,2.Lunes,J. Octubre
+1,Con muertos o graves,Atropello a persona,2014,Diciembre,Lunes,19,18:00-23:59,Heredia,Heredia,Heredia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Oscuro,Angulo recto,2.Lunes,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Jueves,12,12:00-17:59,Alajuela,Alajuela,Río Segundo,1,14,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,De frente,5.Jueves,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Domingo,9,06:00-11:59,Alajuela,Alajuela,Río Segundo,1,14,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Angulo recto,1.Domingo,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Jueves,7,06:00-11:59,Alajuela,Alajuela,Río Segundo,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Angulo recto,5.Jueves,G. Julio
+1,Con muertos o graves,Atropello a persona,2014,Setiembre,Lunes,7,06:00-11:59,Alajuela,Alajuela,Río Segundo,1,14,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,2.Lunes,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Jueves,10,06:00-11:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Desconocida,Asfalto,Buen tiempo,Angulo recto,5.Jueves,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Mayo,Miércoles,18,18:00-23:59,Alajuela,Naranjo,San Juan,141,5,Nacional,Urbana,Pendiente,Curva,Asfalto,Lluvia intensa,De Costado,4.Miércoles,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Lunes,13,12:00-17:59,Alajuela,Naranjo,El Rosario,715,11,Nacional,Rural,Plano,Desconocida,Asfalto,Lluvia escasa,De Costado,2.Lunes,F. Junio
+1,Solo heridos leves,Colisión entre vehículos,2014,Junio,Miércoles,20,18:00-23:59,Alajuela,Naranjo,Naranjo,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Oscuro,De Costado,4.Miércoles,F. Junio
+1,Solo heridos leves,Colisión con bicicleta,2014,Setiembre,Viernes,7,06:00-11:59,Alajuela,Naranjo,Naranjo,715,13,Nacional,Rural,Pendiente,Otro,Asfalto,Buen tiempo,De Costado,6.Viernes,I. Setiembre
+1,Solo heridos leves,Salió de la vía,2014,Enero,Viernes,6,06:00-11:59,Alajuela,Alajuela,Tambor,118,1,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,Otro,6.Viernes,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Martes,17,12:00-17:59,Alajuela,Alajuela,San Isidro,130,0,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Por detrás,3.Martes,C. Marzo
+1,Solo heridos leves,Otros,2014,Mayo,Sábado,11,06:00-11:59,Alajuela,Alajuela,Alajuela,124,0,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Otro,7.Sábado,E. Mayo
+1,Solo heridos leves,Atropello a persona,2014,Mayo,Domingo,12,12:00-17:59,Alajuela,Alajuela,Garita,3,31,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Otro,1.Domingo,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Lunes,18,18:00-23:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Por detrás,2.Lunes,F. Junio
+1,Solo heridos leves,Otros,2014,Junio,Miércoles,16,12:00-17:59,Alajuela,Alajuela,San José,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Otro,4.Miércoles,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Lunes,9,06:00-11:59,Alajuela,Alajuela,Garita,3,31,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Por detrás,2.Lunes,G. Julio
+1,Solo heridos leves,Salió de la vía,2014,Setiembre,Lunes,11,06:00-11:59,Alajuela,Naranjo,San Miguel,1,44,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,Otro,2.Lunes,I. Setiembre
+1,Solo heridos leves,Vuelco,2014,Setiembre,Martes,19,18:00-23:59,Alajuela,Alajuela,Garita,1,27,Nacional,Urbana,Plano,Desconocida,Asfalto,Lluvia escasa,Otro,3.Martes,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Lunes,6,06:00-11:59,Alajuela,Grecia,Puente de Piedra,1,32,Nacional,Rural,Plano,Cruce,Asfalto,Buen tiempo,De Costado,2.Lunes,L. Diciembre
+1,Solo heridos leves,Colisión con objeto fijo,2014,Febrero,Domingo,4,00:00-05:59,Alajuela,Naranjo,Palmitos,726,3,Nacional,Rural,Pendiente,Desconocida,Asfalto,Buen tiempo,De frente,1.Domingo,B. Febrero
+1,Con muertos o graves,Colisión entre vehículos,2014,Febrero,Lunes,22,18:00-23:59,Alajuela,Naranjo,Naranjo,141,4,Nacional,Urbana,Pendiente,Desconocida,Asfalto,Buen tiempo,Angulo recto,2.Lunes,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Viernes,23,18:00-23:59,Alajuela,Naranjo,Cirrí Sur,Cantonal,Cantonal,Cantonal,Rural,Plano,Cruce,Asfalto,Despejado,Otro,6.Viernes,B. Febrero
+1,Solo heridos leves,Vuelco,2014,Marzo,Domingo,22,18:00-23:59,Alajuela,Naranjo,San Jerónimo,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Desconocida,Lastre,Despejado,Desconocido,1.Domingo,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Jueves,0,00:00-05:59,Alajuela,Naranjo,San Juan,141,4,Nacional,Urbana,Pendiente,Curva,Asfalto,Despejado,De Costado,5.Jueves,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Jueves,4,00:00-05:59,Alajuela,Zarcero,Zarcero,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Desconocida,Asfalto,Buen tiempo,De Costado,5.Jueves,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Viernes,22,18:00-23:59,Alajuela,Naranjo,San José,141,10,Nacional,Urbana,Pendiente,Desconocida,Asfalto,Buen tiempo,De Costado,6.Viernes,F. Junio
+1,Con muertos o graves,Salió de la vía,2014,Junio,Domingo,4,00:00-05:59,Alajuela,Zarcero,Zarcero,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Desconocida,Asfalto,Buen tiempo,Objeto Fijo,1.Domingo,F. Junio
+1,Solo heridos leves,Vuelco,2014,Octubre,Sábado,23,18:00-23:59,Alajuela,Naranjo,Naranjo,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Otro,7.Sábado,J. Octubre
+1,Solo heridos leves,Salió de la vía,2014,Noviembre,Domingo,1,00:00-05:59,Alajuela,Naranjo,Palmitos,148,5,Nacional,Rural,Pendiente,Desconocida,Asfalto,Buen tiempo,De Costado,1.Domingo,K. Noviembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Viernes,9,06:00-11:59,Alajuela,San Carlos,Quesada,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De Costado,6.Viernes,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Miércoles,10,06:00-11:59,Alajuela,San Ramón,Peñas Blancas,702,59,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,De Costado,4.Miércoles,J. Octubre
+1,Solo heridos leves,Colisión con bicicleta,2014,Enero,Jueves,10,06:00-11:59,Alajuela,Alajuela,Alajuela,125,1,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,De frente,5.Jueves,A. Enero
+1,Solo heridos leves,Vuelco,2014,Enero,Viernes,9,06:00-11:59,Alajuela,Alajuela,Alajuela,153,0,Nacional,Urbana,Plano,Recta,Concreto,Buen tiempo,Otro,6.Viernes,A. Enero
+1,Solo heridos leves,Atropello a persona,2014,Enero,Lunes,15,12:00-17:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,2.Lunes,A. Enero
+1,Con muertos o graves,Colisión entre vehículos,2014,Enero,Sábado,14,12:00-17:59,Alajuela,Alajuela,San Antonio,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,7.Sábado,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Martes,14,12:00-17:59,Alajuela,Grecia,Puente de Piedra,1,33,Nacional,Rural,Pendiente,Recta,Asfalto,Buen tiempo,De Costado,3.Martes,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Miércoles,14,12:00-17:59,Alajuela,Alajuela,San Antonio,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,4.Miércoles,C. Marzo
+1,Solo heridos leves,Atropello a persona,2014,Marzo,Sábado,20,18:00-23:59,Alajuela,Alajuela,San Rafael,122,5,Nacional,Urbana,Plano,Recta,Asfalto,Oscuro,De frente,7.Sábado,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Lunes,12,12:00-17:59,Alajuela,Alajuela,San Rafael,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,2.Lunes,C. Marzo
+1,Solo heridos leves,Atropello a persona,2014,Marzo,Lunes,16,12:00-17:59,Alajuela,Alajuela,San Isidro,718,3,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Otro,2.Lunes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Martes,17,12:00-17:59,Alajuela,Alajuela,Guácima,124,10,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,3.Martes,C. Marzo
+1,Solo heridos leves,Atropello a persona,2014,Marzo,Jueves,15,12:00-17:59,Alajuela,Alajuela,San Rafael,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De Costado,5.Jueves,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Sábado,15,12:00-17:59,Alajuela,Alajuela,Turrúcares,721,7,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,7.Sábado,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Domingo,16,12:00-17:59,Alajuela,Alajuela,Garita,3,26,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Angulo recto,1.Domingo,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Viernes,8,06:00-11:59,Alajuela,Alajuela,Alajuela,153,0,Nacional,Urbana,Plano,Cruce,Concreto,Buen tiempo,De Costado,6.Viernes,D. Abril
+1,Con muertos o graves,Atropello a persona,2014,Abril,Martes,17,12:00-17:59,Alajuela,Alajuela,San Antonio,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,3.Martes,D. Abril
+1,Solo heridos leves,Otros,2014,Mayo,Domingo,11,06:00-11:59,Alajuela,Alajuela,San Antonio,721,0,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Otro,1.Domingo,E. Mayo
+1,Solo heridos leves,Vuelco,2014,Mayo,Domingo,19,18:00-23:59,Alajuela,Alajuela,Guácima,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Asfalto,Lluvia mediana,Otro,1.Domingo,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Sábado,12,12:00-17:59,Alajuela,Alajuela,Alajuela,125,1,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,7.Sábado,E. Mayo
+1,Solo heridos leves,Colisión entre vehículos,2014,Mayo,Lunes,13,12:00-17:59,Alajuela,Alajuela,Río Segundo,3,16,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De Costado,2.Lunes,E. Mayo
+1,Solo heridos leves,Colisión con bicicleta,2014,Mayo,Jueves,9,06:00-11:59,Alajuela,Alajuela,San Antonio,Ignorada,#NULL!,Ignorada,Desconocida,Plano,Recta,Asfalto,Buen tiempo,Por detrás,5.Jueves,E. Mayo
+1,Solo heridos leves,Colisión entre vehículos,2014,Junio,Viernes,19,18:00-23:59,Alajuela,Alajuela,San Isidro,130,1,Nacional,Urbana,Pendiente,Recta,Asfalto,Lluvia mediana,De frente,6.Viernes,F. Junio
+1,Solo heridos leves,Atropello a persona,2014,Junio,Sábado,15,12:00-17:59,Alajuela,Alajuela,San Rafael,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,7.Sábado,F. Junio
+1,Con muertos o graves,Atropello a persona,2014,Junio,Sábado,19,18:00-23:59,Alajuela,Alajuela,Alajuela,3,20,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,7.Sábado,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Jueves,17,12:00-17:59,Alajuela,Alajuela,Río Segundo,3,13,Nacional,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,De Costado,5.Jueves,F. Junio
+1,Solo heridos leves,Atropello a persona,2014,Junio,Martes,10,06:00-11:59,Heredia,Santa Bárbara,San Juan,119,1,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,3.Martes,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Miércoles,10,06:00-11:59,Alajuela,Alajuela,San Rafael,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Concreto,Buen tiempo,De Costado,4.Miércoles,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Domingo,13,12:00-17:59,Alajuela,Alajuela,Guácima,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De frente,1.Domingo,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Lunes,18,18:00-23:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,2.Lunes,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Sábado,17,12:00-17:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,7.Sábado,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Miércoles,9,06:00-11:59,Alajuela,Alajuela,San Rafael,122,6,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,4.Miércoles,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Sábado,6,06:00-11:59,Alajuela,Alajuela,San José,Cantonal,Cantonal,Cantonal,Urbana,Plano,Otro,Asfalto,Buen tiempo,Por detrás,7.Sábado,G. Julio
+1,Solo heridos leves,Salió de la vía,2014,Julio,Miércoles,19,18:00-23:59,Alajuela,Alajuela,San Isidro,130,5,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Otro,4.Miércoles,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Viernes,18,18:00-23:59,Alajuela,Alajuela,San Rafael,122,4,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,6.Viernes,G. Julio
+1,Solo heridos leves,Atropello animal,2014,Julio,Miércoles,10,06:00-11:59,Alajuela,Alajuela,San Isidro,719,3,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De frente,4.Miércoles,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Domingo,18,18:00-23:59,Alajuela,Alajuela,Río Segundo,3,14,Nacional,Urbana,Plano,Recta,Asfalto,Neblina escasa,Por detrás,1.Domingo,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Jueves,14,12:00-17:59,Alajuela,Alajuela,Río Segundo,3,16,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,5.Jueves,H. Agosto
+1,Solo heridos leves,Colisión con bicicleta,2014,Agosto,Sábado,16,12:00-17:59,Alajuela,Alajuela,San Rafael,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,7.Sábado,H. Agosto
+1,Solo heridos leves,Vuelco,2014,Agosto,Viernes,7,06:00-11:59,Alajuela,Alajuela,San Rafael,147,4,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Otro,6.Viernes,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Martes,6,06:00-11:59,Alajuela,Alajuela,San Rafael,122,6,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,3.Martes,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Domingo,12,12:00-17:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,1.Domingo,I. Setiembre
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Lunes,19,18:00-23:59,Alajuela,Alajuela,San Rafael,122,5,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,2.Lunes,I. Setiembre
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Lunes,12,12:00-17:59,Alajuela,Alajuela,Alajuela,3,17,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,2.Lunes,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Martes,15,12:00-17:59,Alajuela,Alajuela,Alajuela,3,17,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,3.Martes,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Viernes,16,12:00-17:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,Angulo recto,6.Viernes,I. Setiembre
+1,Solo heridos leves,Atropello a persona,2014,Octubre,Jueves,10,06:00-11:59,Alajuela,Alajuela,San Antonio,1,18,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,5.Jueves,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Jueves,9,06:00-11:59,Alajuela,Alajuela,San José,Cantonal,Cantonal,Cantonal,Urbana,Plano,Rotonda,Asfalto,Buen tiempo,De Costado,5.Jueves,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Domingo,7,06:00-11:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,1.Domingo,J. Octubre
+1,Solo heridos leves,Atropello a persona,2014,Octubre,Viernes,19,18:00-23:59,Alajuela,Alajuela,San Rafael,122,2,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,Otro,6.Viernes,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Sábado,20,18:00-23:59,Alajuela,Alajuela,San José,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,7.Sábado,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Martes,11,06:00-11:59,Alajuela,Alajuela,Alajuela,124,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,3.Martes,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Sábado,6,06:00-11:59,Alajuela,Alajuela,Alajuela,153,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,7.Sábado,K. Noviembre
+1,Solo heridos leves,Otros,2014,Noviembre,Sábado,14,12:00-17:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,7.Sábado,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Domingo,19,18:00-23:59,Alajuela,Alajuela,San Antonio,124,4,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,1.Domingo,K. Noviembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Noviembre,Jueves,11,06:00-11:59,Alajuela,Alajuela,San José,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,5.Jueves,K. Noviembre
+1,Solo heridos leves,Vuelco,2014,Noviembre,Viernes,12,12:00-17:59,Alajuela,Alajuela,San Rafael,122,7,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,Otro,6.Viernes,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Lunes,9,06:00-11:59,Alajuela,Alajuela,San Rafael,122,6,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,2.Lunes,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Martes,12,12:00-17:59,Alajuela,Alajuela,Garita,3,26,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,3.Martes,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Sábado,19,18:00-23:59,Alajuela,Alajuela,Río Segundo,3,14,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,7.Sábado,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Lunes,10,06:00-11:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,2.Lunes,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Miércoles,12,12:00-17:59,Alajuela,Alajuela,San José,118,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,4.Miércoles,L. Diciembre
+1,Solo heridos leves,Colisión con objeto fijo,2014,Diciembre,Sábado,12,12:00-17:59,Alajuela,Alajuela,Guácima,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,7.Sábado,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Jueves,17,12:00-17:59,Alajuela,Alajuela,San Rafael,122,6,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,5.Jueves,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Viernes,21,18:00-23:59,Alajuela,Alajuela,San José,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,6.Viernes,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Sábado,16,12:00-17:59,Alajuela,Alajuela,Guácima,124,12,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,De Costado,7.Sábado,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Miércoles,19,18:00-23:59,Alajuela,Alajuela,Alajuela,153,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,4.Miércoles,L. Diciembre
+1,Solo heridos leves,Colisión con objeto fijo,2014,Enero,Domingo,1,00:00-05:59,Cartago,El Guarco,El Tejar,228,3,Nacional,Urbana,Plano,Recta,Asfalto,Oscuro,Objeto Fijo,1.Domingo,A. Enero
+1,Con muertos o graves,Atropello a persona,2014,Enero,Jueves,5,00:00-05:59,Cartago,Alvarado,Cervantes,10,21,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,Otro,5.Jueves,A. Enero
+1,Solo heridos leves,Colisión con objeto fijo,2014,Enero,Domingo,2,00:00-05:59,Cartago,Cartago,Occidental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Oscuro,Objeto Fijo,1.Domingo,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Sábado,20,18:00-23:59,Cartago,Oreamuno,Potrero Cerrado,401,0,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De frente,7.Sábado,C. Marzo
+1,Solo heridos leves,Atropello a persona,2014,Marzo,Lunes,16,12:00-17:59,Cartago,Cartago,Oriental,10,2,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Otro,2.Lunes,C. Marzo
+1,Solo heridos leves,Atropello a persona,2014,Marzo,Lunes,19,18:00-23:59,Cartago,Cartago,Occidental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Concreto,Oscuro,Otro,2.Lunes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Martes,15,12:00-17:59,Cartago,Paraíso,Llanos de Santa Lucía,10,8,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Angulo recto,3.Martes,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Miércoles,14,12:00-17:59,Cartago,Oreamuno,San Rafael,10,#NULL!,Nacional sin coordenada,Desconocida,Plano,Recta,Asfalto,Buen tiempo,De Costado,4.Miércoles,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Martes,11,06:00-11:59,Cartago,Cartago,Guadalupe o Arenilla,Ignorada,#NULL!,Ignorada,Desconocida,Plano,Recta,Asfalto,Buen tiempo,De frente,3.Martes,D. Abril
+1,Solo heridos leves,Atropello a persona,2014,Abril,Martes,19,18:00-23:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Oscuro,Otro,3.Martes,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Mayo,Jueves,17,12:00-17:59,Cartago,Cartago,Oriental,231,0,Nacional,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,Angulo recto,5.Jueves,E. Mayo
+1,Con muertos o graves,Colisión con motocicleta,2014,Mayo,Viernes,14,12:00-17:59,Cartago,Oreamuno,San Rafael,10,4,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,6.Viernes,E. Mayo
+1,Solo heridos leves,Colisión entre vehículos,2014,Mayo,Miércoles,16,12:00-17:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,4.Miércoles,E. Mayo
+1,Solo heridos leves,Colisión con bicicleta,2014,Junio,Sábado,12,12:00-17:59,Cartago,Cartago,Oriental,Ignorada,#NULL!,Ignorada,Desconocida,Plano,Cruce,Asfalto,Buen tiempo,De Costado,7.Sábado,F. Junio
+1,Solo heridos leves,Colisión con objeto fijo,2014,Junio,Sábado,6,06:00-11:59,Cartago,Oreamuno,Cot,230,0,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Objeto Fijo,7.Sábado,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Viernes,13,12:00-17:59,Cartago,Cartago,Carmen,Ignorada,#NULL!,Ignorada,Desconocida,Pendiente,Recta,Asfalto,Buen tiempo,Angulo recto,6.Viernes,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Julio,Sábado,15,12:00-17:59,Cartago,Oreamuno,San Rafael,233,2,Nacional,Urbana,Pendiente,Desconocida,Asfalto,Buen tiempo,De Costado,7.Sábado,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Lunes,17,12:00-17:59,Cartago,Cartago,Occidental,228,0,Nacional,Urbana,Plano,Curva,Asfalto,Buen tiempo,Angulo recto,2.Lunes,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Julio,Martes,10,06:00-11:59,Cartago,Cartago,Guadalupe o Arenilla,228,0,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,3.Martes,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Julio,Jueves,10,06:00-11:59,Cartago,Cartago,Occidental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Concreto,Buen tiempo,Por detrás,5.Jueves,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Viernes,11,06:00-11:59,Cartago,Cartago,Occidental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,6.Viernes,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Lunes,7,06:00-11:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,2.Lunes,H. Agosto
+1,Solo heridos leves,Salió de la vía,2014,Agosto,Jueves,1,00:00-05:59,Cartago,La Unión,San Rafael,2,15,Nacional,Urbana,Pendiente,Desconocida,Asfalto,Buen tiempo,Objeto Fijo,5.Jueves,H. Agosto
+1,Con muertos o graves,Salió de la vía,2014,Agosto,Domingo,2,00:00-05:59,Cartago,Cartago,Corralillo,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Desconocida,Asfalto,Oscuro,Objeto Fijo,1.Domingo,H. Agosto
+1,Solo heridos leves,Salió de la vía,2014,Setiembre,Jueves,13,12:00-17:59,Cartago,Paraíso,Paraíso,224,3,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,Otro,5.Jueves,I. Setiembre
+1,Solo heridos leves,Caída de algún ocupante,2014,Setiembre,Viernes,10,06:00-11:59,Cartago,Cartago,Occidental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,6.Viernes,I. Setiembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Setiembre,Lunes,15,12:00-17:59,Cartago,Oreamuno,San Rafael,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,2.Lunes,I. Setiembre
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Miércoles,20,18:00-23:59,Cartago,El Guarco,Tobosi,228,11,Nacional,Urbana,Pendiente,Recta,Asfalto,Lluvia escasa,Otro,4.Miércoles,I. Setiembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Setiembre,Sábado,8,06:00-11:59,Cartago,Cartago,San Nicolás,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,7.Sábado,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Domingo,20,18:00-23:59,Cartago,Paraíso,Llanos de Santa Lucía,10,6,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Angulo recto,1.Domingo,I. Setiembre
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Lunes,15,12:00-17:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Otro,2.Lunes,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Lunes,17,12:00-17:59,Cartago,Oreamuno,San Rafael,10,5,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,2.Lunes,I. Setiembre
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Domingo,8,06:00-11:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Otro,1.Domingo,I. Setiembre
+1,Solo heridos leves,Atropello a persona,2014,Octubre,Miércoles,12,12:00-17:59,Cartago,Cartago,Quebradilla,228,9,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Otro,4.Miércoles,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Jueves,7,06:00-11:59,Cartago,Cartago,San Nicolás,236,1,Nacional,Urbana,Plano,Recta,Concreto,Buen tiempo,Por detrás,5.Jueves,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Domingo,21,18:00-23:59,Cartago,Cartago,San Nicolás,219,1,Nacional,Urbana,Plano,Recta,Asfalto,Oscuro,De Costado,1.Domingo,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Domingo,11,06:00-11:59,Cartago,Cartago,San Nicolás,236,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Por detrás,1.Domingo,K. Noviembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Noviembre,Lunes,13,12:00-17:59,Cartago,Paraíso,Orosi,408,0,Nacional,Rural,Pendiente,Desconocida,Asfalto,Buen tiempo,De frente,2.Lunes,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Domingo,14,12:00-17:59,Cartago,Cartago,Guadalupe o Arenilla,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Angulo recto,1.Domingo,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Jueves,18,18:00-23:59,Cartago,Paraíso,Llanos de Santa Lucía,10,8,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,Por detrás,5.Jueves,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Viernes,11,06:00-11:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Lluvia escasa,De Costado,6.Viernes,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Jueves,17,12:00-17:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Angulo recto,5.Jueves,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Sábado,21,18:00-23:59,Cartago,Cartago,San Nicolás,2,22,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,7.Sábado,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Viernes,10,06:00-11:59,Cartago,Alvarado,Cervantes,10,21,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Angulo recto,6.Viernes,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Sábado,12,12:00-17:59,Cartago,Cartago,San Nicolás,219,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,7.Sábado,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Miércoles,19,18:00-23:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,4.Miércoles,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Febrero,Miércoles,17,12:00-17:59,San José,Vázquez de Coronado,Dulce Nombre de Jesús,32,19,Nacional,Rural,Plano,Curva,Asfalto,Lluvia mediana,Angulo recto,4.Miércoles,B. Febrero
+1,Solo heridos leves,Colisión entre vehículos,2014,Febrero,Sábado,11,06:00-11:59,Heredia,Santo Domingo,San Miguel,32,8,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,7.Sábado,B. Febrero
+1,Con muertos o graves,Colisión entre vehículos,2014,Noviembre,Viernes,11,06:00-11:59,Heredia,Santo Domingo,San Miguel,32,6,Nacional,Urbana,Pendiente,Recta,Concreto,Lluvia escasa,Por detrás,6.Viernes,K. Noviembre
+1,Solo heridos leves,Atropello a persona,2014,Enero,Miércoles,7,06:00-11:59,San José,San José,Pavas,104,5,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,4.Miércoles,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Viernes,9,06:00-11:59,San José,Tibás,Anselmo Llorente,101,3,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Lateral igual sentido,6.Viernes,B. Febrero
+1,Con muertos o graves,Atropello a persona,2014,Febrero,Lunes,13,12:00-17:59,San José,San José,Hatillo,39,4,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Lateral igual sentido,2.Lunes,B. Febrero
+1,Solo heridos leves,Colisión con bicicleta,2014,Febrero,Martes,6,06:00-11:59,San José,San José,Uruca,108,3,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Lateral igual sentido,3.Martes,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Lunes,16,12:00-17:59,Heredia,Heredia,Ulloa,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Lateral igual sentido,2.Lunes,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Martes,8,06:00-11:59,San José,San José,Hatillo,39,4,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,3.Martes,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Jueves,7,06:00-11:59,San José,San José,San Francisco de Dos Ríos,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,5.Jueves,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Viernes,7,06:00-11:59,San José,Montes de Oca,San Pedro,2,4,Nacional,Urbana,Pendiente,Recta,Asfalto,Despejado,Lateral igual sentido,6.Viernes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Jueves,16,12:00-17:59,San José,San José,Pavas,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,5.Jueves,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Lunes,19,18:00-23:59,San José,San José,Pavas,39,1,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,Por detrás,2.Lunes,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Viernes,7,06:00-11:59,San José,San José,Uruca,108,4,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Lateral igual sentido,6.Viernes,E. Mayo
+1,Con muertos o graves,Atropello a persona,2014,Mayo,Lunes,18,18:00-23:59,San José,San José,Pavas,104,5,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De frente,2.Lunes,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Viernes,21,18:00-23:59,San José,San José,Uruca,108,3,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,6.Viernes,E. Mayo
+1,Solo heridos leves,Otros,2014,Junio,Jueves,17,12:00-17:59,San José,Montes de Oca,San Pedro,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,Angulo recto,5.Jueves,F. Junio
+1,Solo heridos leves,Salió de la vía,2014,Junio,Lunes,9,06:00-11:59,San José,San José,Uruca,Cantonal,Cantonal,Cantonal,Urbana,Plano,Curva,Asfalto,Despejado,Otro,2.Lunes,F. Junio
+1,Solo heridos leves,Atropello a persona,2014,Julio,Miércoles,7,06:00-11:59,San José,San José,San Sebastián,39,7,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,4.Miércoles,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Miércoles,17,12:00-17:59,San José,San José,Uruca,39,0,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,Lateral igual sentido,4.Miércoles,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Miércoles,20,18:00-23:59,San José,Escazú,San Antonio,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Lateral igual sentido,4.Miércoles,L. Diciembre
+1,Con muertos o graves,Colisión con motocicleta,2014,Enero,Martes,11,06:00-11:59,Alajuela,Atenas,Atenas,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,3.Martes,A. Enero
+1,Con muertos o graves,Colisión con motocicleta,2014,Febrero,Jueves,9,06:00-11:59,Alajuela,Atenas,Concepción,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,5.Jueves,B. Febrero
+1,Con muertos o graves,Colisión con motocicleta,2014,Marzo,Miércoles,18,18:00-23:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Angulo recto,4.Miércoles,C. Marzo
+1,Con muertos o graves,Colisión con motocicleta,2014,Mayo,Miércoles,20,18:00-23:59,Alajuela,Atenas,Concepción,134,2,Nacional,Rural,Pendiente,Recta,Asfalto,Lluvia escasa,De frente,4.Miércoles,E. Mayo
+1,Con muertos o graves,Colisión con motocicleta,2014,Junio,Martes,11,06:00-11:59,Alajuela,Atenas,San José,135,19,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,Angulo recto,3.Martes,F. Junio
+1,Solo heridos leves,Otros,2014,Junio,Viernes,17,12:00-17:59,Alajuela,Atenas,Santa Eulalia,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Cruce,Lastre,Lluvia escasa,Otro,6.Viernes,F. Junio
+1,Con muertos o graves,Atropello a persona,2014,Julio,Miércoles,21,18:00-23:59,Alajuela,Atenas,Atenas,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,4.Miércoles,G. Julio
+1,Con muertos o graves,Colisión con motocicleta,2014,Julio,Jueves,11,06:00-11:59,Heredia,Heredia,Ulloa,1,6,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,Por detrás,5.Jueves,G. Julio
+1,Solo heridos leves,Vuelco,2014,Julio,Sábado,6,06:00-11:59,Alajuela,Grecia,Puente de Piedra,154,2,Nacional,Rural,Plano,Curva,Asfalto,Buen tiempo,Otro,7.Sábado,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Martes,19,18:00-23:59,Alajuela,Atenas,Atenas,134,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,3.Martes,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Miércoles,18,18:00-23:59,Alajuela,Atenas,Atenas,3,42,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,4.Miércoles,H. Agosto
+1,Solo heridos leves,Vuelco,2014,Agosto,Sábado,12,12:00-17:59,Alajuela,Atenas,Concepción,134,2,Nacional,Rural,Pendiente,Recta,Adoquin,Lluvia intensa,Otro,7.Sábado,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Lunes,6,06:00-11:59,Alajuela,Alajuela,San Rafael,124,13,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,2.Lunes,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Miércoles,6,06:00-11:59,San José,Curridabat,Tirrases,210,2,Nacional,Urbana,Plano,Desconocida,Concreto,Buen tiempo,De Costado,4.Miércoles,H. Agosto
+1,Solo heridos leves,Colisión entre vehículos,2014,Setiembre,Lunes,12,12:00-17:59,Alajuela,Atenas,Jesús,3,45,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,2.Lunes,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Miércoles,15,12:00-17:59,Alajuela,Alajuela,San Antonio,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Angulo recto,4.Miércoles,J. Octubre
+1,Solo heridos leves,Colisión con bicicleta,2014,Octubre,Lunes,8,06:00-11:59,Alajuela,Atenas,Atenas,3,42,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Por detrás,2.Lunes,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Sábado,20,18:00-23:59,Alajuela,Alajuela,Alajuela,125,2,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,7.Sábado,J. Octubre
+1,Con muertos o graves,Colisión entre vehículos,2014,Noviembre,Lunes,21,18:00-23:59,Alajuela,Atenas,Concepción,720,1,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,2.Lunes,K. Noviembre
+1,Con muertos o graves,Atropello a persona,2014,Diciembre,Martes,17,12:00-17:59,Alajuela,Atenas,Atenas,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,Otro,3.Martes,L. Diciembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Diciembre,Miércoles,6,06:00-11:59,Alajuela,Atenas,Atenas,3,43,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,4.Miércoles,L. Diciembre
+1,Solo heridos leves,Vuelco,2014,Diciembre,Viernes,11,06:00-11:59,Alajuela,Atenas,San Isidro,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Recta,Concreto,Buen tiempo,De Costado,6.Viernes,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Miércoles,9,06:00-11:59,Alajuela,Alajuela,Garita,136,1,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,De frente,4.Miércoles,L. Diciembre
+1,Solo heridos leves,Atropello a persona,2014,Enero,Jueves,20,18:00-23:59,San José,Pérez Zeledón,Pejibaye,332,7,Nacional,Rural,Plano,Desconocida,Asfalto,Despejado,Otro,5.Jueves,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Miércoles,10,06:00-11:59,San José,Pérez Zeledón,San Isidro de El General,2,135,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De Costado,4.Miércoles,A. Enero
+1,Solo heridos leves,Salió de la vía,2014,Marzo,Miércoles,17,12:00-17:59,San José,Pérez Zeledón,Barú,243,29,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De frente,4.Miércoles,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Viernes,22,18:00-23:59,San José,Pérez Zeledón,San Isidro de El General,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De Costado,6.Viernes,C. Marzo
+1,Con muertos o graves,Colisión con objeto fijo,2014,Marzo,Lunes,9,06:00-11:59,San José,Pérez Zeledón,El General,322,4,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,De frente,2.Lunes,C. Marzo
+1,Solo heridos leves,Colisión con bicicleta,2014,Marzo,Miércoles,17,12:00-17:59,San José,Pérez Zeledón,Daniel Flores,2,137,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,4.Miércoles,C. Marzo
+1,Con muertos o graves,Colisión con motocicleta,2014,Abril,Domingo,17,12:00-17:59,San José,Pérez Zeledón,Barú,243,24,Nacional,Rural,Plano,Curva,Asfalto,Lluvia escasa,De frente,1.Domingo,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Mayo,Sábado,10,06:00-11:59,San José,Pérez Zeledón,San Isidro de El General,243,900.00%,Nacional,Rural,Plano,Curva,Asfalto,Lluvia mediana,De frente,7.Sábado,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Lunes,14,12:00-17:59,San José,Pérez Zeledón,El General,322,16,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Por detrás,2.Lunes,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Jueves,17,12:00-17:59,San José,Pérez Zeledón,San Isidro de El General,328,0,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,5.Jueves,E. Mayo
+1,Solo heridos leves,Colisión entre vehículos,2014,Junio,Viernes,18,18:00-23:59,San José,Pérez Zeledón,Daniel Flores,2,13700.00%,Nacional,Urbana,Plano,Desconocida,Asfalto,Lluvia intensa,Por detrás,6.Viernes,F. Junio
+1,Solo heridos leves,Colisión entre vehículos,2014,Junio,Viernes,17,12:00-17:59,San José,Pérez Zeledón,San Isidro de El General,2,135,Nacional,Urbana,Plano,Recta,Asfalto,Neblina escasa,De Costado,6.Viernes,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Jueves,7,06:00-11:59,San José,Pérez Zeledón,San Isidro de El General,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De Costado,5.Jueves,F. Junio
+1,Con muertos o graves,Colisión con motocicleta,2014,Junio,Domingo,16,12:00-17:59,San José,Pérez Zeledón,Pejibaye,244,18,Nacional,Urbana,Plano,Curva,Asfalto,Buen tiempo,De frente,1.Domingo,F. Junio
+1,Solo heridos leves,Salió de la vía,2014,Julio,Miércoles,0,00:00-05:59,San José,Pérez Zeledón,Páramo,2,108,Nacional,Rural,Pendiente,Desconocida,Asfalto,Buen tiempo,De frente,4.Miércoles,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Jueves,16,12:00-17:59,San José,Pérez Zeledón,Daniel Flores,2,136,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Por detrás,5.Jueves,G. Julio
+1,Solo heridos leves,Atropello animal,2014,Agosto,Miércoles,7,06:00-11:59,San José,Pérez Zeledón,Rivas,323,5,Nacional,Rural,Plano,Desconocida,Lastre,Buen tiempo,De frente,4.Miércoles,H. Agosto
+1,Solo heridos leves,Vuelco,2014,Agosto,Domingo,14,12:00-17:59,San José,Pérez Zeledón,San Isidro de El General,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,1.Domingo,H. Agosto
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Domingo,16,12:00-17:59,San José,Pérez Zeledón,San Isidro de El General,Cantonal,Cantonal,Cantonal,Rural,Plano,Desconocida,Asfalto,Buen tiempo,De frente,1.Domingo,H. Agosto
+1,Solo heridos leves,Salió de la vía,2014,Agosto,Lunes,19,18:00-23:59,San José,Pérez Zeledón,Pejibaye,244,15,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,De frente,2.Lunes,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Domingo,6,06:00-11:59,San José,Pérez Zeledón,San Isidro de El General,328,1,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,De frente,1.Domingo,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Miércoles,16,12:00-17:59,San José,Pérez Zeledón,San Isidro de El General,2,135,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,De Costado,4.Miércoles,J. Octubre
+1,Solo heridos leves,Salió de la vía,2014,Octubre,Sábado,15,12:00-17:59,San José,Pérez Zeledón,Rio Nuevo,328,5,Nacional,Rural,Pendiente,Desconocida,Asfalto,Oscuro,De frente,7.Sábado,J. Octubre
+1,Solo heridos leves,Atropello a persona,2014,Octubre,Sábado,16,12:00-17:59,San José,Pérez Zeledón,Rivas,323,0,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,De Costado,7.Sábado,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Sábado,18,18:00-23:59,San José,Pérez Zeledón,San Isidro de El General,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De frente,7.Sábado,J. Octubre
+1,Solo heridos leves,Atropello a persona,2014,Octubre,Viernes,17,12:00-17:59,San José,Pérez Zeledón,San Isidro de El General,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Lluvia intensa,De frente,6.Viernes,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Viernes,18,18:00-23:59,San José,Pérez Zeledón,San Isidro de El General,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Lluvia intensa,Por detrás,6.Viernes,J. Octubre
+1,Con muertos o graves,Atropello a persona,2014,Octubre,Sábado,13,12:00-17:59,San José,Pérez Zeledón,Daniel Flores,2,140,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,7.Sábado,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Viernes,3,00:00-05:59,San José,Pérez Zeledón,Daniel Flores,2,138,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,Por detrás,6.Viernes,J. Octubre
+1,Solo heridos leves,Vuelco,2014,Noviembre,Sábado,0,00:00-05:59,San José,Pérez Zeledón,Daniel Flores,Ignorada,#NULL!,Ignorada,Desconocida,Plano,Desconocida,Asfalto,Buen tiempo,De frente,7.Sábado,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Sábado,5,00:00-05:59,San José,Pérez Zeledón,San Isidro de El General,2,134,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De Costado,7.Sábado,K. Noviembre
+1,Con muertos o graves,Colisión con motocicleta,2014,Enero,Domingo,13,12:00-17:59,Alajuela,Atenas,Concepción,27,37,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,Por detrás,1.Domingo,A. Enero
+1,Solo heridos leves,Atropello a persona,2014,Abril,Martes,6,06:00-11:59,Alajuela,Palmares,Buenos Aires,1,50,Nacional,Urbana,Pendiente,Recta,Asfalto,Oscuro,De Costado,3.Martes,D. Abril
+1,Con muertos o graves,Colisión con motocicleta,2014,Mayo,Jueves,18,18:00-23:59,Alajuela,Grecia,Tacares,1,29,Nacional,Rural,Plano,Cruce,Asfalto,Buen tiempo,De frente,5.Jueves,E. Mayo
+1,Con muertos o graves,Colisión con motocicleta,2014,Julio,Sábado,13,12:00-17:59,Alajuela,Grecia,Puente de Piedra,1,33,Nacional,Rural,Plano,Cruce,Asfalto,Oscuro,De Costado,7.Sábado,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Viernes,18,18:00-23:59,Alajuela,Grecia,Tacares,1,29,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,Lateral en sentido contrario,6.Viernes,H. Agosto
+1,Solo heridos leves,Atropello a persona,2014,Enero,Miércoles,19,18:00-23:59,Alajuela,Palmares,Buenos Aires,1,49,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,4.Miércoles,A. Enero
+1,Solo heridos leves,Atropello a persona,2014,Febrero,Sábado,6,06:00-11:59,Alajuela,Palmares,Buenos Aires,1,49,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,7.Sábado,B. Febrero
+1,Solo heridos leves,Colisión entre vehículos,2014,Febrero,Martes,8,06:00-11:59,Alajuela,Grecia,Puente de Piedra,1,33,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,Por detrás,3.Martes,B. Febrero
+1,Con muertos o graves,Atropello a persona,2014,Febrero,Miércoles,7,06:00-11:59,Alajuela,Alajuela,San Antonio,1,18,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,4.Miércoles,B. Febrero
+1,Con muertos o graves,Colisión entre vehículos,2014,Abril,Sábado,23,18:00-23:59,Alajuela,Alajuela,San Antonio,1,20,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,7.Sábado,D. Abril
+1,Solo heridos leves,Vuelco,2014,Abril,Viernes,16,12:00-17:59,Alajuela,Alajuela,San Antonio,1,18,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Lateral igual sentido,6.Viernes,D. Abril
+1,Solo heridos leves,Salió de la vía,2014,Abril,Martes,2,00:00-05:59,Alajuela,Palmares,Buenos Aires,1,50,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,3.Martes,D. Abril
+1,Solo heridos leves,Atropello animal,2014,Agosto,Miércoles,2,00:00-05:59,Alajuela,Alajuela,San Antonio,1,20,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,4.Miércoles,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Sábado,8,06:00-11:59,Alajuela,Naranjo,San Miguel,Cantonal,Cantonal,Cantonal,Rural,Plano,Cruce,Asfalto,Buen tiempo,De Costado,7.Sábado,H. Agosto
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Miércoles,12,12:00-17:59,Alajuela,Grecia,Tacares,1,30,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,De frente,4.Miércoles,I. Setiembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Lunes,7,06:00-11:59,Alajuela,Alajuela,San Antonio,1,20,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,2.Lunes,K. Noviembre
+1,Con muertos o graves,Colisión con motocicleta,2014,Noviembre,Lunes,11,06:00-11:59,Alajuela,Alajuela,San Antonio,1,16,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,2.Lunes,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Jueves,19,18:00-23:59,Alajuela,Alajuela,Garita,1,26,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De frente,5.Jueves,K. Noviembre
+1,Solo heridos leves,Vuelco,2014,Enero,Viernes,12,12:00-17:59,Guanacaste,Nicoya,Sámara,160,132,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Angulo recto,6.Viernes,A. Enero
+1,Con muertos o graves,Colisión con motocicleta,2014,Enero,Sábado,8,06:00-11:59,Guanacaste,Nicoya,Mansión,158,1,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Angulo recto,7.Sábado,A. Enero
+1,Con muertos o graves,Colisión entre vehículos,2014,Enero,Lunes,20,18:00-23:59,Guanacaste,Nandayure,Carmona,161,2,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Angulo recto,2.Lunes,A. Enero
+1,Con muertos o graves,Colisión con objeto fijo,2014,Enero,Viernes,13,12:00-17:59,Guanacaste,Nicoya,Nosara,160,156,Nacional,Rural,Plano,Otro,Lastre,Buen tiempo,De frente,6.Viernes,A. Enero
+1,Con muertos o graves,Salió de la vía,2014,Enero,Lunes,9,06:00-11:59,Guanacaste,Nicoya,Nicoya,21,67,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,2.Lunes,A. Enero
+1,Solo heridos leves,Salió de la vía,2014,Enero,Miércoles,16,12:00-17:59,Guanacaste,Nicoya,San Antonio,150,21,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De frente,4.Miércoles,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Viernes,16,12:00-17:59,Guanacaste,Nicoya,Nicoya,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Angulo recto,6.Viernes,A. Enero
+1,Con muertos o graves,Colisión con motocicleta,2014,Febrero,Martes,12,12:00-17:59,Guanacaste,Nicoya,Mansión,21,90,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Lateral igual sentido,3.Martes,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Lunes,7,06:00-11:59,Guanacaste,Nicoya,Nicoya,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Angulo recto,2.Lunes,C. Marzo
+1,Con muertos o graves,Colisión con bicicleta,2014,Marzo,Miércoles,12,12:00-17:59,Guanacaste,Nicoya,Nicoya,21,69,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Lateral igual sentido,4.Miércoles,C. Marzo
+1,Solo heridos leves,Vuelco,2014,Marzo,Domingo,19,18:00-23:59,Guanacaste,Nicoya,Quebrada Honda,18,37,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Lateral en sentido contrario,1.Domingo,C. Marzo
+1,Con muertos o graves,Colisión con motocicleta,2014,Abril,Jueves,7,06:00-11:59,Guanacaste,Nicoya,Nicoya,21,71,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Lateral igual sentido,5.Jueves,D. Abril
+1,Solo heridos leves,Vuelco,2014,Abril,Viernes,11,06:00-11:59,Guanacaste,Nicoya,Belén de Nosarita,Ignorada,#NULL!,Ignorada,Desconocida,Pendiente,Recta,Asfalto,Despejado,De frente,6.Viernes,D. Abril
+1,Con muertos o graves,Colisión con motocicleta,2014,Abril,Viernes,16,12:00-17:59,Guanacaste,Nicoya,Nicoya,21,79,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,De Costado,6.Viernes,D. Abril
+1,Solo heridos leves,Vuelco,2014,Abril,Sábado,21,18:00-23:59,Guanacaste,Nicoya,Belén de Nosarita,Cantonal,Cantonal,Cantonal,Rural,Plano,Desconocida,Lastre,Oscuro,Otro,7.Sábado,D. Abril
+1,Solo heridos leves,Colisión con objeto fijo,2014,Mayo,Martes,11,06:00-11:59,Guanacaste,Nicoya,Mansión,21,87,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,De frente,3.Martes,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Viernes,16,12:00-17:59,Guanacaste,Nicoya,Nicoya,921,0,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Angulo recto,6.Viernes,F. Junio
+1,Con muertos o graves,Colisión con motocicleta,2014,Julio,Martes,18,18:00-23:59,Guanacaste,Nandayure,San Pablo,21,116,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Angulo recto,3.Martes,G. Julio
+1,Con muertos o graves,Colisión entre vehículos,2014,Julio,Lunes,11,06:00-11:59,Guanacaste,Nicoya,Sámara,160,134,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,2.Lunes,G. Julio
+1,Con muertos o graves,Colisión con bicicleta,2014,Julio,Viernes,10,06:00-11:59,Guanacaste,Nicoya,Nicoya,21,69,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,De frente,6.Viernes,G. Julio
+1,Solo heridos leves,Colisión con bicicleta,2014,Agosto,Viernes,16,12:00-17:59,Guanacaste,Nandayure,Santa Rita,21,103,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,De frente,6.Viernes,H. Agosto
+1,Solo heridos leves,Atropello animal,2014,Agosto,Lunes,8,06:00-11:59,Guanacaste,Hojancha,Hojancha,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De frente,2.Lunes,H. Agosto
+1,Con muertos o graves,Atropello a persona,2014,Agosto,Sábado,16,12:00-17:59,Guanacaste,Hojancha,Huacas,Cantonal,Cantonal,Cantonal,Rural,Plano,Desconocida,Tierra,Lluvia escasa,Objeto Fijo,7.Sábado,H. Agosto
+1,Con muertos o graves,Colisión con motocicleta,2014,Agosto,Martes,13,12:00-17:59,Guanacaste,Nicoya,Nicoya,150,27,Nacional,Urbana,Plano,Desconocida,Asfalto,Lluvia escasa,De frente,3.Martes,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Lunes,14,12:00-17:59,Guanacaste,Hojancha,Hojancha,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Angulo recto,2.Lunes,H. Agosto
+1,Con muertos o graves,Colisión con motocicleta,2014,Agosto,Jueves,18,18:00-23:59,Guanacaste,Nicoya,Mansión,157,8,Nacional,Urbana,Plano,Desconocida,Asfalto,Lluvia escasa,Angulo recto,5.Jueves,H. Agosto
+1,Solo heridos leves,Vuelco,2014,Agosto,Sábado,20,18:00-23:59,Guanacaste,Nicoya,Nicoya,150,26,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De Costado,7.Sábado,H. Agosto
+1,Con muertos o graves,Colisión con motocicleta,2014,Setiembre,Jueves,10,06:00-11:59,Guanacaste,Nicoya,Sámara,150,55,Nacional,Rural,Pendiente,Desconocida,Asfalto,Buen tiempo,De frente,5.Jueves,I. Setiembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Setiembre,Miércoles,19,18:00-23:59,Guanacaste,Nicoya,Nicoya,21,67,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De frente,4.Miércoles,I. Setiembre
+1,Con muertos o graves,Colisión con bicicleta,2014,Setiembre,Sábado,20,18:00-23:59,Guanacaste,Nicoya,Mansión,21,98,Nacional,Rural,Plano,Desconocida,Asfalto,Lluvia escasa,Otro,7.Sábado,I. Setiembre
+1,Con muertos o graves,Vuelco,2014,Octubre,Domingo,11,06:00-11:59,Guanacaste,Nicoya,Nicoya,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Lastre,Buen tiempo,Otro,1.Domingo,J. Octubre
+1,Con muertos o graves,Colisión con motocicleta,2014,Octubre,Lunes,19,18:00-23:59,Guanacaste,Nicoya,Nicoya,21,67,Nacional,Urbana,Plano,Desconocida,Asfalto,Lluvia intensa,Lateral en sentido contrario,2.Lunes,J. Octubre
+1,Con muertos o graves,Vuelco,2014,Noviembre,Miércoles,9,06:00-11:59,Guanacaste,Nicoya,San Antonio,150,11,Nacional,Rural,Plano,Desconocida,Lastre,Buen tiempo,De frente,4.Miércoles,K. Noviembre
+1,Con muertos o graves,Colisión con motocicleta,2014,Noviembre,Lunes,16,12:00-17:59,Guanacaste,Nicoya,Nicoya,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Desconocida,Lastre,Buen tiempo,De frente,2.Lunes,K. Noviembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Noviembre,Sábado,11,06:00-11:59,Guanacaste,Nandayure,Carmona,161,4,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Lateral en sentido contrario,7.Sábado,K. Noviembre
+1,Solo heridos leves,Vuelco,2014,Diciembre,Domingo,21,18:00-23:59,Guanacaste,Nicoya,Nicoya,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Lastre,Buen tiempo,De frente,1.Domingo,L. Diciembre
+1,Solo heridos leves,Atropello animal,2014,Diciembre,Lunes,6,06:00-11:59,Guanacaste,Nicoya,Nicoya,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De frente,2.Lunes,L. Diciembre
+1,Solo heridos leves,Vuelco,2014,Diciembre,Jueves,12,12:00-17:59,Guanacaste,Nicoya,Mansión,21,88,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Otro,5.Jueves,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Domingo,11,06:00-11:59,Guanacaste,Nicoya,Nicoya,21,66,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,De Costado,1.Domingo,L. Diciembre
+1,Solo heridos leves,Caída de algún ocupante,2014,Enero,Sábado,13,12:00-17:59,San José,Desamparados,San Rafael Abajo,105,13,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,Otro,7.Sábado,A. Enero
+1,Solo heridos leves,Colisión entre vehículos,2014,Febrero,Domingo,18,18:00-23:59,San José,Desamparados,Desamparados,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,1.Domingo,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Jueves,18,18:00-23:59,San José,Desamparados,Desamparados,209,2,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,Angulo recto,5.Jueves,B. Febrero
+1,Con muertos o graves,Atropello a persona,2014,Febrero,Jueves,21,18:00-23:59,San José,Acosta,Guaitil,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Curva,Lastre,Buen tiempo,Otro,5.Jueves,B. Febrero
+1,Con muertos o graves,Atropello a persona,2014,Febrero,Sábado,16,12:00-17:59,San José,Desamparados,San Rafael Abajo,217,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,7.Sábado,B. Febrero
+1,Solo heridos leves,Caída de algún ocupante,2014,Febrero,Viernes,13,12:00-17:59,San José,Desamparados,Los Guido,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,6.Viernes,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Sábado,10,06:00-11:59,San José,Desamparados,Desamparados,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,7.Sábado,B. Febrero
+1,Solo heridos leves,Caída de algún ocupante,2014,Febrero,Sábado,13,12:00-17:59,San José,Desamparados,Gravilias,209,4,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Otro,7.Sábado,B. Febrero
+1,Solo heridos leves,Vuelco,2014,Marzo,Viernes,12,12:00-17:59,San José,Desamparados,Desamparados,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,6.Viernes,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Sábado,12,12:00-17:59,San José,Aserrí,Aserrí,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De frente,7.Sábado,C. Marzo
+1,Solo heridos leves,Vuelco,2014,Marzo,Martes,22,18:00-23:59,San José,Aserrí,Aserrí,209,7,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Otro,3.Martes,C. Marzo
+1,Con muertos o graves,Salió de la vía,2014,Marzo,Viernes,15,12:00-17:59,San José,Aserrí,Monterrey,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Recta,Concreto,Buen tiempo,Otro,6.Viernes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Miércoles,7,06:00-11:59,San José,Desamparados,San Miguel,206,0,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De Costado,4.Miércoles,C. Marzo
+1,Con muertos o graves,Colisión con motocicleta,2014,Marzo,Domingo,21,18:00-23:59,San José,Desamparados,San Miguel,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Concreto,Buen tiempo,Angulo recto,1.Domingo,C. Marzo
+1,Solo heridos leves,Salió de la vía,2014,Marzo,Lunes,13,12:00-17:59,San José,Aserrí,Salitrillos,209,13,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,Otro,2.Lunes,C. Marzo
+1,Con muertos o graves,Atropello a persona,2014,Marzo,Sábado,18,18:00-23:59,San José,Desamparados,Patarrá,212,3,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Desconocido,7.Sábado,C. Marzo
+1,Con muertos o graves,Atropello a persona,2014,Marzo,Sábado,20,18:00-23:59,San José,Desamparados,San Miguel,206,1,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,7.Sábado,C. Marzo
+1,Solo heridos leves,Vuelco,2014,Marzo,Domingo,13,12:00-17:59,San José,Acosta,Sabanillas,301,19,Nacional,Rural,Pendiente,Curva,Lastre,Buen tiempo,Otro,1.Domingo,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Lunes,11,06:00-11:59,San José,San José,Catedral,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,2.Lunes,C. Marzo
+1,Solo heridos leves,Atropello a persona,2014,Abril,Viernes,21,18:00-23:59,San José,Desamparados,San Juan de Dios,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,Otro,6.Viernes,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Miércoles,12,12:00-17:59,San José,Desamparados,Desamparados,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,4.Miércoles,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Miércoles,13,12:00-17:59,San José,Desamparados,San Miguel,206,1,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De frente,4.Miércoles,D. Abril
+1,Con muertos o graves,Colisión entre vehículos,2014,Mayo,Jueves,20,18:00-23:59,San José,Desamparados,San Miguel,206,2,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,5.Jueves,E. Mayo
+1,Solo heridos leves,Atropello a persona,2014,Mayo,Sábado,17,12:00-17:59,San José,Desamparados,San Miguel,209,4,Nacional,Urbana,Pendiente,Otro,Concreto,Lluvia mediana,Otro,7.Sábado,E. Mayo
+1,Con muertos o graves,Colisión con objeto fijo,2014,Mayo,Domingo,13,12:00-17:59,San José,Acosta,Cangrejal,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Curva,Lastre,Buen tiempo,Otro,1.Domingo,E. Mayo
+1,Solo heridos leves,Atropello a persona,2014,Mayo,Domingo,21,18:00-23:59,San José,Desamparados,San Rafael Abajo,217,0,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Otro,1.Domingo,E. Mayo
+1,Solo heridos leves,Colisión con bicicleta,2014,Mayo,Lunes,16,12:00-17:59,San José,Desamparados,Los Guido,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,2.Lunes,E. Mayo
+1,Con muertos o graves,Colisión con motocicleta,2014,Mayo,Lunes,17,12:00-17:59,San José,Desamparados,San Rafael Abajo,214,3,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,2.Lunes,E. Mayo
+1,Solo heridos leves,Atropello a persona,2014,Mayo,Sábado,17,12:00-17:59,San José,Desamparados,Los Guido,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Concreto,Buen tiempo,Otro,7.Sábado,E. Mayo
+1,Con muertos o graves,Atropello a persona,2014,Mayo,Sábado,21,18:00-23:59,San José,Desamparados,San Miguel,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,Otro,7.Sábado,E. Mayo
+1,Con muertos o graves,Colisión con bicicleta,2014,Mayo,Viernes,9,06:00-11:59,San José,Desamparados,San Antonio,210,1,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,6.Viernes,E. Mayo
+1,Solo heridos leves,Vuelco,2014,Mayo,Viernes,13,12:00-17:59,San José,Desamparados,San Miguel,206,2,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia mediana,Otro,6.Viernes,E. Mayo
+1,Solo heridos leves,Colisión entre vehículos,2014,Mayo,Sábado,5,00:00-05:59,San José,Desamparados,San Miguel,209,5,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,De frente,7.Sábado,E. Mayo
+1,Con muertos o graves,Atropello a persona,2014,Junio,Domingo,13,12:00-17:59,San José,Desamparados,Desamparados,209,2,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,1.Domingo,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Martes,10,06:00-11:59,San José,Desamparados,Los Guido,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,3.Martes,F. Junio
+1,Solo heridos leves,Atropello a persona,2014,Junio,Lunes,18,18:00-23:59,San José,Desamparados,Damas,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Otro,2.Lunes,F. Junio
+1,Solo heridos leves,Atropello a persona,2014,Junio,Viernes,20,18:00-23:59,San José,Desamparados,Desamparados,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,6.Viernes,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Martes,12,12:00-17:59,San José,Desamparados,Damas,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,De Costado,3.Martes,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Viernes,19,18:00-23:59,San José,Aserrí,Aserrí,209,7,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,6.Viernes,F. Junio
+1,Solo heridos leves,Atropello a persona,2014,Junio,Domingo,18,18:00-23:59,San José,Desamparados,San Rafael Arriba,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Despejado,Angulo recto,1.Domingo,F. Junio
+1,Con muertos o graves,Colisión con motocicleta,2014,Junio,Domingo,20,18:00-23:59,San José,Desamparados,Desamparados,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,1.Domingo,F. Junio
+1,Solo heridos leves,Colisión entre vehículos,2014,Julio,Domingo,11,06:00-11:59,San José,Desamparados,San Rafael Abajo,214,4,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,1.Domingo,G. Julio
+1,Solo heridos leves,Vuelco,2014,Julio,Martes,7,06:00-11:59,San José,Desamparados,San Miguel,304,0,Nacional,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,Otro,3.Martes,G. Julio
+1,Con muertos o graves,Salió de la vía,2014,Agosto,Domingo,6,06:00-11:59,San José,Aserrí,Aserrí,209,13,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,Otro,1.Domingo,H. Agosto
+1,Con muertos o graves,Atropello a persona,2014,Agosto,Miércoles,6,06:00-11:59,San José,Desamparados,San Miguel,206,0,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Otro,4.Miércoles,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Lunes,17,12:00-17:59,San José,Desamparados,Damas,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,2.Lunes,H. Agosto
+1,Con muertos o graves,Colisión con motocicleta,2014,Setiembre,Domingo,12,12:00-17:59,San José,Desamparados,Damas,212,1,Nacional,Urbana,Plano,Curva,Asfalto,Lluvia escasa,De frente,1.Domingo,I. Setiembre
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Jueves,7,06:00-11:59,San José,Acosta,San Ignacio,209,26,Nacional,Rural,Pendiente,Recta,Asfalto,Buen tiempo,Otro,5.Jueves,I. Setiembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Setiembre,Jueves,7,06:00-11:59,San José,Aserrí,Salitrillos,209,14,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De frente,5.Jueves,I. Setiembre
+1,Con muertos o graves,Colisión con motocicleta,2014,Octubre,Jueves,18,18:00-23:59,San José,Desamparados,Desamparados,209,4,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,5.Jueves,J. Octubre
+1,Solo heridos leves,Atropello a persona,2014,Octubre,Viernes,15,12:00-17:59,San José,Desamparados,Desamparados,209,2,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Otro,6.Viernes,J. Octubre
+1,Solo heridos leves,Atropello animal,2014,Octubre,Miércoles,7,06:00-11:59,San José,Desamparados,San Rafael Abajo,217,0,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Otro,4.Miércoles,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Miércoles,19,18:00-23:59,San José,Aserrí,Aserrí,209,8,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,4.Miércoles,K. Noviembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Noviembre,Lunes,5,00:00-05:59,San José,Desamparados,San Rafael Arriba,209,6,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,2.Lunes,K. Noviembre
+1,Con muertos o graves,Atropello a persona,2014,Noviembre,Martes,7,06:00-11:59,San José,Aserrí,San Gabriel,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Curva,Asfalto,Buen tiempo,Otro,3.Martes,K. Noviembre
+1,Solo heridos leves,Atropello animal,2014,Noviembre,Martes,8,06:00-11:59,San José,Aserrí,Tarbaca,209,16,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,Otro,3.Martes,K. Noviembre
+1,Solo heridos leves,Vuelco,2014,Noviembre,Martes,11,06:00-11:59,San José,Aserrí,Salitrillos,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Curva,Asfalto,Buen tiempo,Otro,3.Martes,K. Noviembre
+1,Solo heridos leves,Atropello a persona,2014,Noviembre,Domingo,16,12:00-17:59,San José,Aserrí,Vuelta de Jorco,Cantonal,Cantonal,Cantonal,Urbana,Plano,Otro,Asfalto,Buen tiempo,Otro,1.Domingo,K. Noviembre
+1,Con muertos o graves,Atropello a persona,2014,Diciembre,Jueves,13,12:00-17:59,San José,Aserrí,Monterrey,313,7,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,Otro,5.Jueves,L. Diciembre
+1,Con muertos o graves,Vuelco,2014,Diciembre,Martes,8,06:00-11:59,San José,Curridabat,Curridabat,2,8,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Otro,3.Martes,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Miércoles,8,06:00-11:59,San José,Tibás,San Juan,102,1,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,4.Miércoles,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Martes,17,12:00-17:59,San José,Tibás,San Juan,102,1,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,3.Martes,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Jueves,7,06:00-11:59,San José,Goicoechea,Mata de Plátano,205,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,5.Jueves,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Lunes,7,06:00-11:59,San José,Moravia,San Vicente,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,2.Lunes,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Domingo,12,12:00-17:59,San José,Tibás,San Juan,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Por detrás,1.Domingo,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Martes,6,06:00-11:59,San José,Goicoechea,Guadalupe,218,1,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,3.Martes,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Mayo,Lunes,11,06:00-11:59,San José,Goicoechea,Calle Blancos,39,14,Nacional,Urbana,Plano,Desconocida,Asfalto,Despejado,Por detrás,2.Lunes,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Jueves,10,06:00-11:59,San José,Goicoechea,Calle Blancos,109,0,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,5.Jueves,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Domingo,15,12:00-17:59,San José,Tibás,San Juan,5,1,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,1.Domingo,F. Junio
+1,Solo heridos leves,Colisión entre vehículos,2014,Junio,Martes,16,12:00-17:59,San José,Moravia,San Vicente,200,0,Nacional,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,De Costado,3.Martes,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Miércoles,16,12:00-17:59,San José,Moravia,San Vicente,102,3,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,4.Miércoles,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Miércoles,17,12:00-17:59,San José,Tibás,San Juan,5,2,Nacional,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,De Costado,4.Miércoles,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Viernes,15,12:00-17:59,San José,Goicoechea,Purral,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Cruce,Asfalto,Lluvia mediana,De Costado,6.Viernes,F. Junio
+1,Solo heridos leves,Colisión entre vehículos,2014,Junio,Viernes,17,12:00-17:59,San José,Goicoechea,Calle Blancos,Ignorada,#NULL!,Ignorada,Desconocida,Plano,Cruce,Asfalto,Buen tiempo,Por detrás,6.Viernes,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Sábado,19,18:00-23:59,San José,Tibás,Anselmo Llorente,101,3,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,7.Sábado,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Miércoles,10,06:00-11:59,San José,Goicoechea,Guadalupe,218,1,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,4.Miércoles,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Viernes,10,06:00-11:59,San José,Goicoechea,Guadalupe,218,3,Nacional,Urbana,Plano,Recta,Concreto,Buen tiempo,Por detrás,6.Viernes,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Domingo,20,18:00-23:59,San José,Vázquez de Coronado,San Isidro,216,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,1.Domingo,H. Agosto
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Lunes,7,06:00-11:59,San José,Goicoechea,Guadalupe,218,1,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Por detrás,2.Lunes,H. Agosto
+1,Solo heridos leves,Colisión entre vehículos,2014,Setiembre,Miércoles,19,18:00-23:59,San José,Tibás,San Juan,32,2,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia intensa,Por detrás,4.Miércoles,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Viernes,18,18:00-23:59,San José,Tibás,Anselmo Llorente,32,1,Nacional,Urbana,Plano,Cruce,Asfalto,Lluvia intensa,De Costado,6.Viernes,I. Setiembre
+1,Con muertos o graves,Colisión con motocicleta,2014,Octubre,Lunes,16,12:00-17:59,San José,Goicoechea,Purral,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Cruce,Asfalto,Lluvia intensa,De frente,2.Lunes,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Martes,17,12:00-17:59,San José,Tibás,San Juan,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,De Costado,3.Martes,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Lunes,11,06:00-11:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,2.Lunes,A. Enero
+1,Solo heridos leves,Vuelco,2014,Octubre,Martes,19,18:00-23:59,San José,Tibás,San Juan,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Lluvia intensa,De Costado,3.Martes,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Viernes,17,12:00-17:59,San José,Goicoechea,Guadalupe,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,De frente,6.Viernes,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Martes,17,12:00-17:59,Cartago,Paraíso,Llanos de Santa Lucía,10,8,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,3.Martes,B. Febrero
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Martes,18,18:00-23:59,Cartago,Oreamuno,San Rafael,219,4,Nacional,Urbana,Pendiente,Desconocida,Asfalto,Buen tiempo,Por detrás,3.Martes,C. Marzo
+1,Solo heridos leves,Salió de la vía,2014,Marzo,Sábado,19,18:00-23:59,Cartago,Alvarado,Capellades,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De Costado,7.Sábado,C. Marzo
+1,Solo heridos leves,Atropello a persona,2014,Marzo,Martes,15,12:00-17:59,Cartago,Cartago,Oriental,10,2,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,3.Martes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Miércoles,17,12:00-17:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,4.Miércoles,D. Abril
+1,Solo heridos leves,Salió de la vía,2014,Abril,Martes,15,12:00-17:59,Cartago,La Unión,San Rafael,2,15,Nacional,Urbana,Plano,Curva,Asfalto,Lluvia intensa,De Costado,3.Martes,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Viernes,19,18:00-23:59,Cartago,Alvarado,Capellades,10,25,Nacional,Rural,Pendiente,Recta,Asfalto,Buen tiempo,De frente,6.Viernes,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Jueves,12,12:00-17:59,Cartago,Oreamuno,San Rafael,10,5,Nacional,Urbana,Plano,Otro,Asfalto,Despejado,De Costado,5.Jueves,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Lunes,20,18:00-23:59,Cartago,Paraíso,Paraíso,10,10,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,2.Lunes,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Martes,20,18:00-23:59,Cartago,Cartago,San Nicolás,2,20,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,De Costado,3.Martes,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Sábado,10,06:00-11:59,Cartago,El Guarco,Tobosi,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,7.Sábado,E. Mayo
+1,Solo heridos leves,Caída de algún ocupante,2014,Mayo,Lunes,17,12:00-17:59,Cartago,Cartago,Aguacaliente o San Francisco,Cantonal,Cantonal,Cantonal,Rural,Plano,Cruce,Asfalto,Buen tiempo,De Costado,2.Lunes,E. Mayo
+1,Solo heridos leves,Atropello a persona,2014,Mayo,Viernes,20,18:00-23:59,Cartago,Cartago,Occidental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,6.Viernes,E. Mayo
+1,Solo heridos leves,Colisión con bicicleta,2014,Junio,Lunes,18,18:00-23:59,Cartago,Paraíso,Santiago,404,3,Nacional,Rural,Pendiente,Curva,Asfalto,Oscuro,De frente,2.Lunes,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Viernes,18,18:00-23:59,Cartago,Paraíso,Paraíso,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,6.Viernes,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Miércoles,11,06:00-11:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,4.Miércoles,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Julio,Jueves,15,12:00-17:59,Cartago,Cartago,Guadalupe o Arenilla,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,5.Jueves,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Sábado,12,12:00-17:59,Cartago,Cartago,Occidental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Despejado,De Costado,7.Sábado,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Viernes,17,12:00-17:59,Cartago,Cartago,Carmen,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Asfalto,Lluvia escasa,De Costado,6.Viernes,H. Agosto
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Lunes,9,06:00-11:59,Cartago,El Guarco,El Tejar,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Desconocido,2.Lunes,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Jueves,17,12:00-17:59,Cartago,El Guarco,El Tejar,2,25,Nacional,Urbana,Plano,Otro,Asfalto,Buen tiempo,De Costado,5.Jueves,J. Octubre
+1,Solo heridos leves,Salió de la vía,2014,Octubre,Sábado,16,12:00-17:59,Cartago,Cartago,Llano Grande,218,30,Nacional,Urbana,Pendiente,Curva,Asfalto,Lluvia mediana,De frente,7.Sábado,J. Octubre
+1,Solo heridos leves,Atropello a persona,2014,Octubre,Viernes,19,18:00-23:59,Cartago,Cartago,San Nicolás,219,0,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,De frente,6.Viernes,J. Octubre
+1,Con muertos o graves,Colisión con motocicleta,2014,Octubre,Viernes,21,18:00-23:59,Cartago,Cartago,Aguacaliente o San Francisco,231,2,Nacional,Urbana,Plano,Cruce,Asfalto,Lluvia mediana,De Costado,6.Viernes,J. Octubre
+1,Con muertos o graves,Colisión con motocicleta,2014,Noviembre,Sábado,11,06:00-11:59,Cartago,El Guarco,San Isidro,2,27,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,7.Sábado,K. Noviembre
+1,Solo heridos leves,Vuelco,2014,Enero,Sábado,12,12:00-17:59,San José,San José,Uruca,1,4,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,7.Sábado,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Lunes,21,18:00-23:59,San José,San José,Mata Redonda,167,2,Nacional,Urbana,Plano,Cruce,Asfalto,Oscuro,De Costado,2.Lunes,B. Febrero
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Miércoles,18,18:00-23:59,San José,San José,Uruca,1,3,Nacional,Urbana,Plano,Recta,Asfalto,Oscuro,Por detrás,4.Miércoles,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Miércoles,13,12:00-17:59,San José,San José,Mata Redonda,104,2,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,De Costado,4.Miércoles,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Viernes,7,06:00-11:59,San José,San José,Uruca,1,4,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,Por detrás,6.Viernes,C. Marzo
+1,Solo heridos leves,Vuelco,2014,Marzo,Viernes,12,12:00-17:59,Heredia,Heredia,Ulloa,1,7,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,6.Viernes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Lunes,21,18:00-23:59,San José,San José,Pavas,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Oscuro,De Costado,2.Lunes,C. Marzo
+1,Solo heridos leves,Salió de la vía,2014,Marzo,Domingo,15,12:00-17:59,Heredia,Heredia,Ulloa,1,8,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,1.Domingo,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Martes,19,18:00-23:59,San José,San José,Uruca,1,2,Nacional,Urbana,Plano,Recta,Asfalto,Oscuro,Por detrás,3.Martes,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Miércoles,8,06:00-11:59,San José,San José,Pavas,39,2,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,4.Miércoles,D. Abril
+1,Solo heridos leves,Atropello a persona,2014,Abril,Miércoles,17,12:00-17:59,Heredia,Heredia,Ulloa,106,3,Nacional,Urbana,Plano,Cruce,Asfalto,Lluvia mediana,De Costado,4.Miércoles,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Mayo,Lunes,12,12:00-17:59,San José,San José,Mata Redonda,104,0,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,2.Lunes,E. Mayo
+1,Solo heridos leves,Colisión entre vehículos,2014,Mayo,Martes,12,12:00-17:59,San José,San José,Uruca,1,4,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,Por detrás,3.Martes,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Viernes,9,06:00-11:59,San José,San José,Pavas,104,3,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,6.Viernes,E. Mayo
+1,Solo heridos leves,Salió de la vía,2014,Mayo,Sábado,18,18:00-23:59,Heredia,Belén,La Ribera,1,11,Nacional,Urbana,Pendiente,Recta,Asfalto,Oscuro,De Costado,7.Sábado,E. Mayo
+1,Con muertos o graves,Colisión con motocicleta,2014,Mayo,Martes,12,12:00-17:59,Heredia,Belén,La Asunción,1,9,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,3.Martes,E. Mayo
+1,Solo heridos leves,Atropello a persona,2014,Julio,Jueves,6,06:00-11:59,San José,San José,Uruca,1,2,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De frente,5.Jueves,G. Julio
+1,Solo heridos leves,Colisión con objeto fijo,2014,Julio,Jueves,9,06:00-11:59,San José,Montes de Oca,San Pedro,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,De frente,5.Jueves,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Viernes,7,06:00-11:59,San José,Curridabat,Curridabat,215,0,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,De Costado,6.Viernes,H. Agosto
+1,Solo heridos leves,Colisión con objeto fijo,2014,Agosto,Miércoles,20,18:00-23:59,San José,San José,Uruca,3,1,Nacional,Urbana,Plano,Desconocida,Otros,Lluvia mediana,Objeto Fijo,4.Miércoles,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Sábado,11,06:00-11:59,San José,San José,Pavas,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,7.Sábado,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Viernes,14,12:00-17:59,Heredia,Heredia,Ulloa,106,3,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,6.Viernes,H. Agosto
+1,Solo heridos leves,Vuelco,2014,Agosto,Lunes,8,06:00-11:59,San José,San José,Uruca,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,2.Lunes,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Martes,21,18:00-23:59,San José,San José,Uruca,1,2,Nacional,Urbana,Plano,Cruce,Asfalto,Oscuro,De Costado,3.Martes,I. Setiembre
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Domingo,5,00:00-05:59,Heredia,Belén,La Ribera,1,11,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,1.Domingo,I. Setiembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Sábado,10,06:00-11:59,Alajuela,Alajuela,Río Segundo,1,12,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,Por detrás,7.Sábado,J. Octubre
+1,Solo heridos leves,Vuelco,2014,Diciembre,Jueves,6,06:00-11:59,San José,San José,Uruca,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,5.Jueves,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Lunes,19,18:00-23:59,Heredia,Heredia,Ulloa,1,5,Nacional,Urbana,Plano,Recta,Asfalto,Oscuro,De Costado,2.Lunes,L. Diciembre
+1,Solo heridos leves,Vuelco,2014,Diciembre,Miércoles,15,12:00-17:59,Heredia,Belén,La Ribera,1,11,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,4.Miércoles,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Jueves,14,12:00-17:59,Heredia,Heredia,Ulloa,1,600.00%,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,5.Jueves,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Viernes,11,06:00-11:59,Heredia,Belén,La Ribera,1,10,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,6.Viernes,L. Diciembre
+1,Solo heridos leves,Atropello a persona,2014,Diciembre,Martes,20,18:00-23:59,San José,San José,Uruca,1,2,Nacional,Urbana,Plano,Recta,Asfalto,Oscuro,De frente,3.Martes,L. Diciembre
+1,Solo heridos leves,Atropello a persona,2014,Diciembre,Jueves,20,18:00-23:59,San José,San José,Mata Redonda,104,1,Nacional,Urbana,Plano,Recta,Asfalto,Oscuro,De Costado,5.Jueves,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Sábado,20,18:00-23:59,Alajuela,Naranjo,El Rosario,1,37,Nacional,Urbana,Plano,Desconocida,Asfalto,Despejado,Angulo recto,7.Sábado,B. Febrero
+1,Solo heridos leves,Atropello a persona,2014,Febrero,Lunes,18,18:00-23:59,Alajuela,Naranjo,El Rosario,1,37,Nacional,Urbana,Plano,Recta,Asfalto,Oscuro,De Costado,2.Lunes,B. Febrero
+1,Solo heridos leves,Salió de la vía,2014,Marzo,Lunes,19,18:00-23:59,Alajuela,Alajuela,San José,1,20,Nacional,Urbana,Pendiente,Recta,Asfalto,Oscuro,Otro,2.Lunes,C. Marzo
+1,Solo heridos leves,Salió de la vía,2014,Abril,Viernes,17,12:00-17:59,Alajuela,San Ramón,San Isidro,1,52,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De frente,6.Viernes,D. Abril
+1,Solo heridos leves,Salió de la vía,2014,Junio,Martes,17,12:00-17:59,Alajuela,Grecia,Puente de Piedra,1,33,Nacional,Rural,Pendiente,Curva,Asfalto,Neblina escasa,De frente,3.Martes,F. Junio
+1,Con muertos o graves,Colisión con motocicleta,2014,Julio,Miércoles,19,18:00-23:59,Alajuela,Palmares,Buenos Aires,135,6,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,4.Miércoles,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Setiembre,Lunes,2,00:00-05:59,Alajuela,Grecia,Puente de Piedra,1,33,Nacional,Rural,Plano,Recta,Asfalto,Oscuro,Por detrás,2.Lunes,I. Setiembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Setiembre,Sábado,0,00:00-05:59,Alajuela,Grecia,Tacares,Cantonal,Cantonal,Cantonal,Rural,Plano,Recta,Asfalto,Oscuro,De Costado,7.Sábado,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Lunes,16,12:00-17:59,Alajuela,Naranjo,San Miguel,1,42,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,De frente,2.Lunes,K. Noviembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Junio,Lunes,15,12:00-17:59,Alajuela,Grecia,Grecia,118,16,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,De Costado,2.Lunes,F. Junio
+1,Solo heridos leves,Vuelco,2014,Julio,Viernes,20,18:00-23:59,Alajuela,Poás,Carrillos,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Otro,6.Viernes,G. Julio
+1,Solo heridos leves,Salió de la vía,2014,Octubre,Miércoles,5,00:00-05:59,Alajuela,Grecia,Puente de Piedra,118,13,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,Otro,4.Miércoles,J. Octubre
+1,Solo heridos leves,Atropello a persona,2014,Febrero,Miércoles,5,00:00-05:59,Alajuela,Alajuela,Río Segundo,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Oscuro,Otro,4.Miércoles,B. Febrero
+1,Solo heridos leves,Atropello animal,2014,Febrero,Viernes,23,18:00-23:59,Alajuela,Alajuela,Río Segundo,1,14,Nacional,Urbana,Plano,Recta,Asfalto,Oscuro,Desconocido,6.Viernes,B. Febrero
+1,Solo heridos leves,Caída de algún ocupante,2014,Marzo,Jueves,23,18:00-23:59,Alajuela,Alajuela,Río Segundo,111,10,Nacional,Urbana,Plano,Recta,Asfalto,Oscuro,Otro,5.Jueves,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Lunes,0,00:00-05:59,Alajuela,Alajuela,Río Segundo,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Oscuro,Por detrás,2.Lunes,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Domingo,3,00:00-05:59,Alajuela,Alajuela,Río Segundo,Cantonal,Cantonal,Cantonal,Urbana,Plano,Curva,Asfalto,Lluvia escasa,De Costado,1.Domingo,K. Noviembre
+1,Solo heridos leves,Salió de la vía,2014,Noviembre,Sábado,4,00:00-05:59,Alajuela,Alajuela,Río Segundo,111,10,Nacional,Urbana,Plano,Curva,Asfalto,Oscuro,De Costado,7.Sábado,K. Noviembre
+1,Con muertos o graves,Atropello a persona,2014,Diciembre,Domingo,4,00:00-05:59,Alajuela,Alajuela,Río Segundo,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Oscuro,Otro,1.Domingo,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Viernes,17,12:00-17:59,Limón,Pococí,Rita,249,26,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,Angulo recto,6.Viernes,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Lunes,6,06:00-11:59,Limón,Pococí,Guápiles,32,51,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,De frente,2.Lunes,A. Enero
+1,Solo heridos leves,Colisión con bicicleta,2014,Enero,Martes,5,00:00-05:59,Limón,Pococí,Guápiles,249,3,Nacional,Urbana,Plano,Cruce,Asfalto,Lluvia mediana,Angulo recto,3.Martes,A. Enero
+1,Solo heridos leves,Colisión con bicicleta,2014,Enero,Miércoles,19,18:00-23:59,Limón,Pococí,Roxana,Cantonal,Cantonal,Cantonal,Rural,Plano,Curva,Lastre,Buen tiempo,De frente,4.Miércoles,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Viernes,17,12:00-17:59,Limón,Guácimo,Guácimo,248,5,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Por detrás,6.Viernes,A. Enero
+1,Solo heridos leves,Vuelco,2014,Enero,Viernes,20,18:00-23:59,Limón,Pococí,Cariari,247,20,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De frente,6.Viernes,A. Enero
+1,Solo heridos leves,Colisión con bicicleta,2014,Febrero,Jueves,16,12:00-17:59,Limón,Pococí,Cariari,247,24,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,5.Jueves,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Viernes,16,12:00-17:59,Limón,Pococí,Cariari,Cantonal,Cantonal,Cantonal,Rural,Plano,Curva,Asfalto,Buen tiempo,De Costado,6.Viernes,C. Marzo
+1,Con muertos o graves,Colisión con bicicleta,2014,Marzo,Lunes,11,06:00-11:59,Limón,Pococí,Cariari,247,21,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,2.Lunes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Domingo,14,12:00-17:59,Limón,Pococí,Cariari,247,20,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Por detrás,1.Domingo,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Domingo,15,12:00-17:59,Limón,Pococí,Cariari,247,21,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De Costado,1.Domingo,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Martes,9,06:00-11:59,Limón,Pococí,Guápiles,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,3.Martes,D. Abril
+1,Solo heridos leves,Atropello a persona,2014,Abril,Miércoles,21,18:00-23:59,Limón,Pococí,Guápiles,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Lastre,Buen tiempo,De frente,4.Miércoles,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Domingo,20,18:00-23:59,Limón,Pococí,Roxana,248,33,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,1.Domingo,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Martes,14,12:00-17:59,Limón,Pococí,La Colonia,247,3,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Angulo recto,3.Martes,E. Mayo
+1,Con muertos o graves,Colisión con bicicleta,2014,Mayo,Martes,21,18:00-23:59,Limón,Pococí,Rita,247,14,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Por detrás,3.Martes,E. Mayo
+1,Con muertos o graves,Colisión con motocicleta,2014,Mayo,Lunes,12,12:00-17:59,Limón,Pococí,Jiménez,32,63,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Angulo recto,2.Lunes,E. Mayo
+1,Con muertos o graves,Colisión con bicicleta,2014,Mayo,Jueves,8,06:00-11:59,Limón,Pococí,Guápiles,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,5.Jueves,E. Mayo
+1,Con muertos o graves,Colisión con motocicleta,2014,Junio,Sábado,16,12:00-17:59,Limón,Pococí,Guápiles,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,7.Sábado,F. Junio
+1,Solo heridos leves,Colisión con bicicleta,2014,Junio,Miércoles,16,12:00-17:59,Limón,Pococí,Roxana,248,33,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,4.Miércoles,F. Junio
+1,Solo heridos leves,Atropello a persona,2014,Julio,Sábado,15,12:00-17:59,Limón,Pococí,Guápiles,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De Costado,7.Sábado,G. Julio
+1,Solo heridos leves,Atropello a persona,2014,Julio,Miércoles,19,18:00-23:59,Limón,Pococí,Cariari,247,23,Nacional,Rural,Plano,Recta,Asfalto,Lluvia intensa,De Costado,4.Miércoles,G. Julio
+1,Con muertos o graves,Colisión con motocicleta,2014,Julio,Viernes,15,12:00-17:59,Limón,Pococí,Roxana,248,31,Nacional,Rural,Plano,Desconocida,Asfalto,Lluvia mediana,De frente,6.Viernes,G. Julio
+1,Con muertos o graves,Colisión con motocicleta,2014,Julio,Lunes,15,12:00-17:59,Limón,Pococí,Cariari,247,26,Nacional,Rural,Pendiente,Desconocida,Asfalto,Buen tiempo,Angulo recto,2.Lunes,G. Julio
+1,Solo heridos leves,Colisión con bicicleta,2014,Julio,Miércoles,20,18:00-23:59,Limón,Pococí,Guápiles,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Lluvia mediana,Angulo recto,4.Miércoles,G. Julio
+1,Con muertos o graves,Colisión con motocicleta,2014,Agosto,Viernes,7,06:00-11:59,Limón,Pococí,Rita,Cantonal,Cantonal,Cantonal,Rural,Plano,Recta,Lastre,Lluvia intensa,De Costado,6.Viernes,H. Agosto
+1,Con muertos o graves,Colisión con motocicleta,2014,Agosto,Lunes,10,06:00-11:59,Limón,Pococí,Guápiles,149,1,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,2.Lunes,H. Agosto
+1,Con muertos o graves,Colisión con bicicleta,2014,Agosto,Domingo,12,12:00-17:59,Limón,Pococí,Roxana,248,37,Nacional,Urbana,Plano,Curva,Asfalto,Buen tiempo,De Costado,1.Domingo,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Miércoles,7,06:00-11:59,Limón,Pococí,Jiménez,810,1,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Angulo recto,4.Miércoles,H. Agosto
+1,Solo heridos leves,Vuelco,2014,Agosto,Miércoles,8,06:00-11:59,Limón,Pococí,Rita,817,6,Nacional,Rural,Plano,Desconocida,Lastre,Buen tiempo,Otro,4.Miércoles,H. Agosto
+1,Solo heridos leves,Colisión con bicicleta,2014,Setiembre,Lunes,16,12:00-17:59,Limón,Pococí,Roxana,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De frente,2.Lunes,I. Setiembre
+1,Con muertos o graves,Atropello a persona,2014,Setiembre,Viernes,15,12:00-17:59,Limón,Pococí,Guápiles,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De frente,6.Viernes,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Viernes,20,18:00-23:59,Limón,Pococí,Guápiles,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Lluvia intensa,Angulo recto,6.Viernes,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Domingo,20,18:00-23:59,Limón,Pococí,Guápiles,149,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,1.Domingo,I. Setiembre
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Jueves,16,12:00-17:59,Limón,Guácimo,Río Jiménez,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De frente,5.Jueves,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Martes,15,12:00-17:59,Limón,Pococí,Cariari,247,20,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,3.Martes,I. Setiembre
+1,Solo heridos leves,Vuelco,2014,Octubre,Jueves,16,12:00-17:59,Limón,Pococí,Rita,249,29,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De frente,5.Jueves,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Miércoles,18,18:00-23:59,Limón,Pococí,Roxana,Cantonal,Cantonal,Cantonal,Rural,Plano,Cruce,Lastre,Buen tiempo,De Costado,4.Miércoles,J. Octubre
+1,Con muertos o graves,Colisión con objeto fijo,2014,Octubre,Jueves,10,06:00-11:59,Limón,Pococí,Cariari,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,5.Jueves,J. Octubre
+1,Solo heridos leves,Colisión con bicicleta,2014,Octubre,Lunes,9,06:00-11:59,Limón,Guácimo,Guácimo,Cantonal,Cantonal,Cantonal,Rural,Plano,Recta,Lastre,Buen tiempo,De frente,2.Lunes,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Lunes,11,06:00-11:59,Limón,Pococí,Guápiles,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,2.Lunes,J. Octubre
+1,Con muertos o graves,Colisión con motocicleta,2014,Octubre,Miércoles,12,12:00-17:59,Limón,Pococí,Guápiles,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,4.Miércoles,J. Octubre
+1,Con muertos o graves,Atropello a persona,2014,Octubre,Sábado,11,06:00-11:59,Limón,Pococí,Guápiles,247,1,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De frente,7.Sábado,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Sábado,14,12:00-17:59,Limón,Pococí,Cariari,247,17,Nacional,Urbana,Plano,Desconocida,Lastre,Buen tiempo,De Costado,7.Sábado,K. Noviembre
+1,Solo heridos leves,Atropello a persona,2014,Noviembre,Viernes,12,12:00-17:59,Limón,Pococí,Jiménez,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Lluvia mediana,De frente,6.Viernes,K. Noviembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Noviembre,Jueves,15,12:00-17:59,Limón,Pococí,Guápiles,149,2,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,5.Jueves,K. Noviembre
+1,Solo heridos leves,Atropello animal,2014,Diciembre,Martes,17,12:00-17:59,Limón,Pococí,Cariari,247,19,Nacional,Urbana,Pendiente,Desconocida,Asfalto,Lluvia mediana,De frente,3.Martes,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Jueves,15,12:00-17:59,Limón,Pococí,La Colonia,247,5,Nacional,Urbana,Plano,Curva,Asfalto,Otro,De Costado,5.Jueves,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Lunes,16,12:00-17:59,Limón,Pococí,Rita,Cantonal,Cantonal,Cantonal,Rural,Plano,Curva,Lastre,Lluvia escasa,De frente,2.Lunes,L. Diciembre
+1,Con muertos o graves,Colisión entre vehículos,2014,Diciembre,Domingo,18,18:00-23:59,Limón,Pococí,Guápiles,249,2,Nacional,Urbana,Plano,Curva,Asfalto,Lluvia mediana,De frente,1.Domingo,L. Diciembre
+1,Con muertos o graves,Colisión con motocicleta,2014,Diciembre,Domingo,20,18:00-23:59,Limón,Pococí,La Colonia,247,5,Nacional,Urbana,Plano,Curva,Asfalto,Lluvia escasa,De Costado,1.Domingo,L. Diciembre
+1,Con muertos o graves,Colisión con motocicleta,2014,Diciembre,Lunes,17,12:00-17:59,Limón,Pococí,Rita,Cantonal,Cantonal,Cantonal,Urbana,Plano,Curva,Lastre,Buen tiempo,De frente,2.Lunes,L. Diciembre
+1,Con muertos o graves,Colisión con bicicleta,2014,Diciembre,Sábado,21,18:00-23:59,Limón,Pococí,Cariari,247,20,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,7.Sábado,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Martes,20,18:00-23:59,Limón,Pococí,Guápiles,247,1,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Por detrás,3.Martes,L. Diciembre
+1,Solo heridos leves,Salió de la vía,2014,Marzo,Miércoles,7,06:00-11:59,Cartago,El Guarco,San Isidro,2,52,Nacional,Rural,Pendiente,Recta,Asfalto,Buen tiempo,De frente,4.Miércoles,C. Marzo
+1,Solo heridos leves,Colisión con bicicleta,2014,Enero,Sábado,12,12:00-17:59,San José,Curridabat,Sánchez,251,1,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De Costado,7.Sábado,A. Enero
+1,Solo heridos leves,Colisión con objeto fijo,2014,Enero,Martes,7,06:00-11:59,San José,Curridabat,Curridabat,221,1,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,De Costado,3.Martes,A. Enero
+1,Solo heridos leves,Colisión entre vehículos,2014,Junio,Jueves,8,06:00-11:59,San José,San José,Zapote,215,4,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,5.Jueves,F. Junio
+1,Con muertos o graves,Colisión con motocicleta,2014,Enero,Domingo,20,18:00-23:59,San José,Pérez Zeledón,Daniel Flores,2,138,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,1.Domingo,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Domingo,14,12:00-17:59,San José,Pérez Zeledón,San Isidro de El General,2,136,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,1.Domingo,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Jueves,9,06:00-11:59,San José,Pérez Zeledón,Daniel Flores,2,137,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,5.Jueves,B. Febrero
+1,Solo heridos leves,Atropello a persona,2014,Marzo,Jueves,7,06:00-11:59,San José,Pérez Zeledón,Daniel Flores,Ignorada,#NULL!,Ignorada,Desconocida,Pendiente,Recta,Asfalto,Buen tiempo,Otro,5.Jueves,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Sábado,17,12:00-17:59,San José,Pérez Zeledón,San Isidro de El General,243,5,Nacional,Rural,Pendiente,Cruce,Asfalto,Despejado,Angulo recto,7.Sábado,D. Abril
+1,Con muertos o graves,Colisión con motocicleta,2014,Junio,Viernes,20,18:00-23:59,San José,Pérez Zeledón,San Pedro,333,8,Nacional,Rural,Pendiente,Desconocida,Lastre,Despejado,De frente,6.Viernes,F. Junio
+1,Con muertos o graves,Salió de la vía,2014,Julio,Sábado,22,18:00-23:59,San José,Pérez Zeledón,El General,322,9,Nacional,Rural,Plano,Curva,Asfalto,Buen tiempo,Otro,7.Sábado,G. Julio
+1,Con muertos o graves,Colisión entre vehículos,2014,Julio,Miércoles,17,12:00-17:59,San José,Pérez Zeledón,Cajón,326,4,Nacional,Rural,Plano,Cruce,Asfalto,Buen tiempo,De Costado,4.Miércoles,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Lunes,10,06:00-11:59,San José,Pérez Zeledón,San Isidro de El General,2,136,Nacional,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,De Costado,2.Lunes,H. Agosto
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Miércoles,13,12:00-17:59,San José,Pérez Zeledón,San Isidro de El General,2,135,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,4.Miércoles,H. Agosto
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Jueves,14,12:00-17:59,Cartago,Paraíso,Orosi,2,95,Nacional,Rural,Pendiente,Curva,Asfalto,Lluvia mediana,De frente,5.Jueves,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Lunes,8,06:00-11:59,San José,Pérez Zeledón,San Isidro de El General,2,136,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,De Costado,2.Lunes,K. Noviembre
+1,Solo heridos leves,Salió de la vía,2014,Noviembre,Jueves,16,12:00-17:59,San José,Pérez Zeledón,El General,Cantonal,Cantonal,Cantonal,Rural,Plano,Curva,Asfalto,Buen tiempo,Otro,5.Jueves,K. Noviembre
+1,Solo heridos leves,Salió de la vía,2014,Noviembre,Domingo,12,12:00-17:59,San José,Pérez Zeledón,Pejibaye,244,18,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,Otro,1.Domingo,K. Noviembre
+1,Con muertos o graves,Colisión con bicicleta,2014,Enero,Sábado,18,18:00-23:59,Puntarenas,Buenos Aires,Buenos Aires,246,5,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,7.Sábado,A. Enero
+1,Solo heridos leves,Colisión entre vehículos,2014,Enero,Sábado,23,18:00-23:59,Puntarenas,Buenos Aires,Brunka,2,189,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De Costado,7.Sábado,A. Enero
+1,Solo heridos leves,Vuelco,2014,Enero,Viernes,12,12:00-17:59,Puntarenas,Buenos Aires,Buenos Aires,2,199,Nacional,Rural,Pendiente,Recta,Asfalto,Buen tiempo,De frente,6.Viernes,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Miércoles,14,12:00-17:59,Puntarenas,Coto Brus,San Vito,Cantonal,Cantonal,Cantonal,Urbana,Plano,Curva,Asfalto,Buen tiempo,De Costado,4.Miércoles,C. Marzo
+1,Solo heridos leves,Colisión con objeto fijo,2014,Marzo,Martes,17,12:00-17:59,Puntarenas,Buenos Aires,Buenos Aires,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Curva,Lastre,Lluvia mediana,De frente,3.Martes,C. Marzo
+1,Solo heridos leves,Salió de la vía,2014,Abril,Miércoles,8,06:00-11:59,Puntarenas,Buenos Aires,Brunka,2,190,Nacional,Rural,Plano,Curva,Asfalto,Buen tiempo,De frente,4.Miércoles,D. Abril
+1,Solo heridos leves,Vuelco,2014,Abril,Viernes,17,12:00-17:59,Puntarenas,Buenos Aires,Volcán,2,169,Nacional,Rural,Plano,Recta,Asfalto,Lluvia mediana,Otro,6.Viernes,D. Abril
+1,Solo heridos leves,Colisión con objeto fijo,2014,Abril,Viernes,19,18:00-23:59,Puntarenas,Buenos Aires,Buenos Aires,Cantonal,Cantonal,Cantonal,Urbana,Plano,Otro,Otros,Buen tiempo,De frente,6.Viernes,D. Abril
+1,Solo heridos leves,Vuelco,2014,Abril,Miércoles,12,12:00-17:59,Puntarenas,Buenos Aires,Buenos Aires,246,4,Nacional,Urbana,Pendiente,Recta,Lastre,Buen tiempo,De frente,4.Miércoles,D. Abril
+1,Solo heridos leves,Salió de la vía,2014,Julio,Martes,16,12:00-17:59,Puntarenas,Buenos Aires,Buenos Aires,Cantonal,Cantonal,Cantonal,Rural,Plano,Recta,Lastre,Buen tiempo,De frente,3.Martes,G. Julio
+1,Solo heridos leves,Vuelco,2014,Agosto,Domingo,19,18:00-23:59,Puntarenas,Buenos Aires,Volcán,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Recta,Lastre,Oscuro,De frente,1.Domingo,H. Agosto
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Sábado,20,18:00-23:59,Puntarenas,Buenos Aires,Buenos Aires,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Oscuro,De frente,7.Sábado,I. Setiembre
+1,Solo heridos leves,Salió de la vía,2014,Setiembre,Jueves,11,06:00-11:59,Puntarenas,Buenos Aires,Volcán,2,181,Nacional,Rural,Plano,Curva,Asfalto,Buen tiempo,De frente,5.Jueves,I. Setiembre
+1,Con muertos o graves,Colisión entre vehículos,2014,Setiembre,Martes,22,18:00-23:59,Puntarenas,Buenos Aires,Potrero Grande,237,15,Nacional,Rural,Plano,Recta,Asfalto,Lluvia escasa,De frente,3.Martes,I. Setiembre
+1,Con muertos o graves,Atropello a persona,2014,Octubre,Domingo,19,18:00-23:59,Puntarenas,Buenos Aires,Volcán,2,170,Nacional,Rural,Plano,Recta,Asfalto,Oscuro,Desconocido,1.Domingo,J. Octubre
+1,Solo heridos leves,Colisión con bicicleta,2014,Noviembre,Domingo,7,06:00-11:59,Puntarenas,Buenos Aires,Buenos Aires,2,196,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,1.Domingo,K. Noviembre
+1,Con muertos o graves,Colisión entre vehículos,2014,Diciembre,Domingo,18,18:00-23:59,Puntarenas,Buenos Aires,Brunka,2,185,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,1.Domingo,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Sábado,14,12:00-17:59,Puntarenas,Buenos Aires,Buenos Aires,246,4,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,7.Sábado,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Miércoles,16,12:00-17:59,Limón,Pococí,Guápiles,32,47,Nacional,Rural,Pendiente,Curva,Asfalto,Lluvia mediana,Angulo recto,4.Miércoles,H. Agosto
+1,Solo heridos leves,Colisión con bicicleta,2014,Setiembre,Jueves,17,12:00-17:59,Limón,Siquirres,Siquirres,Cantonal,Cantonal,Cantonal,Urbana,Plano,Curva,Asfalto,Buen tiempo,De frente,5.Jueves,I. Setiembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Octubre,Viernes,7,06:00-11:59,Limón,Siquirres,Siquirres,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Lluvia escasa,Desconocido,6.Viernes,J. Octubre
+1,Solo heridos leves,Vuelco,2014,Octubre,Lunes,12,12:00-17:59,Limón,Matina,Matina,32,124,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,De frente,2.Lunes,J. Octubre
+1,Solo heridos leves,Atropello a persona,2014,Noviembre,Sábado,13,12:00-17:59,Limón,Siquirres,Siquirres,10,89,Nacional,Urbana,Pendiente,Desconocida,Asfalto,Buen tiempo,De frente,7.Sábado,K. Noviembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Domingo,21,18:00-23:59,Limón,Siquirres,Alegría,32,90,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,1.Domingo,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Setiembre,Martes,18,18:00-23:59,Limón,Limón,Río Blanco,32,146,Nacional,Rural,Plano,Recta,Asfalto,Lluvia intensa,Angulo recto,3.Martes,I. Setiembre
+1,Con muertos o graves,Colisión con bicicleta,2014,Octubre,Lunes,22,18:00-23:59,Limón,Limón,Río Blanco,32,137,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,Por detrás,2.Lunes,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Martes,18,18:00-23:59,Limón,Matina,Carrandi,32,130,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,3.Martes,K. Noviembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Miércoles,2,00:00-05:59,Limón,Matina,Batán,32,110,Nacional,Rural,Pendiente,Desconocida,Asfalto,Buen tiempo,Objeto Fijo,4.Miércoles,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Miércoles,19,18:00-23:59,Heredia,Sarapiquí,Las Horquetas,4,2400.00%,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,Por detrás,4.Miércoles,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Martes,20,18:00-23:59,Heredia,Sarapiquí,Puerto Viejo,4,34,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,3.Martes,E. Mayo
+1,Solo heridos leves,Salió de la vía,2014,Mayo,Martes,19,18:00-23:59,Heredia,Sarapiquí,Puerto Viejo,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,3.Martes,E. Mayo
+1,Solo heridos leves,Caída de algún ocupante,2014,Mayo,Viernes,16,12:00-17:59,Heredia,Sarapiquí,Las Horquetas,229,14,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,De frente,6.Viernes,E. Mayo
+1,Solo heridos leves,Salió de la vía,2014,Mayo,Domingo,9,06:00-11:59,Alajuela,Alajuela,Sarapiquí,126,46,Nacional,Urbana,Pendiente,Curva,Asfalto,Lluvia escasa,De Costado,1.Domingo,E. Mayo
+1,Solo heridos leves,Atropello a persona,2014,Junio,Lunes,22,18:00-23:59,Heredia,Sarapiquí,Puerto Viejo,4,30,Nacional,Urbana,Plano,Recta,Lastre,Buen tiempo,De frente,2.Lunes,F. Junio
+1,Solo heridos leves,Salió de la vía,2014,Junio,Sábado,5,00:00-05:59,Heredia,Sarapiquí,Puerto Viejo,4,30,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia intensa,De frente,7.Sábado,F. Junio
+1,Solo heridos leves,Salió de la vía,2014,Junio,Domingo,17,12:00-17:59,Heredia,Sarapiquí,Puerto Viejo,4,30,Nacional,Urbana,Plano,Curva,Asfalto,Lluvia escasa,De frente,1.Domingo,F. Junio
+1,Solo heridos leves,Colisión con bicicleta,2014,Junio,Domingo,19,18:00-23:59,Heredia,Sarapiquí,Puerto Viejo,4,31,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,1.Domingo,F. Junio
+1,Solo heridos leves,Salió de la vía,2014,Julio,Viernes,21,18:00-23:59,Heredia,Sarapiquí,La Virgen,Cantonal,Cantonal,Cantonal,Rural,Plano,Recta,Lastre,Buen tiempo,De Costado,6.Viernes,G. Julio
+1,Solo heridos leves,Salió de la vía,2014,Julio,Sábado,19,18:00-23:59,Heredia,Sarapiquí,La Virgen,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Lastre,Buen tiempo,De frente,7.Sábado,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Domingo,19,18:00-23:59,Heredia,Sarapiquí,Las Horquetas,4,3,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,De Costado,1.Domingo,H. Agosto
+1,Solo heridos leves,Colisión con bicicleta,2014,Agosto,Martes,19,18:00-23:59,Heredia,Sarapiquí,Puerto Viejo,4,30,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,3.Martes,H. Agosto
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Domingo,18,18:00-23:59,Heredia,Sarapiquí,Las Horquetas,Cantonal,Cantonal,Cantonal,Rural,Plano,Recta,Asfalto,Buen tiempo,De frente,1.Domingo,I. Setiembre
+1,Con muertos o graves,Salió de la vía,2014,Setiembre,Viernes,8,06:00-11:59,Alajuela,Alajuela,Sarapiquí,126,43,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De frente,6.Viernes,I. Setiembre
+1,Con muertos o graves,Colisión con motocicleta,2014,Setiembre,Jueves,7,06:00-11:59,Heredia,Sarapiquí,La Virgen,126,70,Nacional,Rural,Plano,Recta,Concreto,Despejado,De Costado,5.Jueves,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Domingo,7,06:00-11:59,Heredia,Sarapiquí,Puerto Viejo,4,31,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,1.Domingo,I. Setiembre
+1,Solo heridos leves,Atropello a persona,2014,Octubre,Lunes,20,18:00-23:59,Heredia,Sarapiquí,Puerto Viejo,507,1,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,De frente,2.Lunes,J. Octubre
+1,Solo heridos leves,Salió de la vía,2014,Octubre,Viernes,18,18:00-23:59,Heredia,Sarapiquí,Las Horquetas,4,1,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,De frente,6.Viernes,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Sábado,19,18:00-23:59,Heredia,Sarapiquí,Las Horquetas,4,0,Nacional,Rural,Plano,Recta,Asfalto,Lluvia mediana,De frente,7.Sábado,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Lunes,17,12:00-17:59,Heredia,Sarapiquí,Las Horquetas,229,14,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,De Costado,2.Lunes,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Domingo,18,18:00-23:59,Heredia,Sarapiquí,Las Horquetas,229,17,Nacional,Rural,Plano,Cruce,Asfalto,Buen tiempo,De Costado,1.Domingo,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Miércoles,8,06:00-11:59,Heredia,Sarapiquí,Puerto Viejo,4,3400.00%,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,4.Miércoles,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Domingo,15,12:00-17:59,San José,Santa Ana,Uruca,121,8,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,1.Domingo,A. Enero
+1,Solo heridos leves,Atropello a persona,2014,Enero,Lunes,6,06:00-11:59,San José,Escazú,Escazú,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,De Costado,2.Lunes,A. Enero
+1,Solo heridos leves,Salió de la vía,2014,Enero,Lunes,8,06:00-11:59,San José,Santa Ana,Piedades,27,14,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De frente,2.Lunes,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Lunes,10,06:00-11:59,San José,Escazú,San Rafael,121,2,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,2.Lunes,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Miércoles,12,12:00-17:59,San José,Escazú,Escazú,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Despejado,De Costado,4.Miércoles,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Martes,15,12:00-17:59,San José,Escazú,San Rafael,121,0,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,De Costado,3.Martes,B. Febrero
+1,Solo heridos leves,Vuelco,2014,Febrero,Miércoles,10,06:00-11:59,San José,Escazú,San Rafael,Cantonal,Cantonal,Cantonal,Urbana,Plano,Otro,Asfalto,Despejado,De Costado,4.Miércoles,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Miércoles,11,06:00-11:59,San José,Escazú,San Rafael,105,0,Nacional,Urbana,Plano,Recta,Concreto,Despejado,De Costado,4.Miércoles,B. Febrero
+1,Solo heridos leves,Atropello a persona,2014,Febrero,Domingo,20,18:00-23:59,San José,Escazú,San Rafael,27,4,Nacional,Urbana,Plano,Otro,Asfalto,Despejado,De frente,1.Domingo,B. Febrero
+1,Solo heridos leves,Salió de la vía,2014,Febrero,Martes,20,18:00-23:59,San José,Santa Ana,Pozos,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,3.Martes,B. Febrero
+1,Solo heridos leves,Salió de la vía,2014,Febrero,Martes,9,06:00-11:59,San José,Escazú,San Rafael,27,6,Nacional,Urbana,Plano,Curva,Asfalto,Despejado,De Costado,3.Martes,B. Febrero
+1,Solo heridos leves,Colisión con objeto fijo,2014,Marzo,Domingo,6,06:00-11:59,San José,Escazú,San Rafael,Cantonal,Cantonal,Cantonal,Urbana,Plano,Curva,Asfalto,Despejado,De Costado,1.Domingo,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Sábado,16,12:00-17:59,San José,Escazú,San Antonio,Cantonal,Cantonal,Cantonal,Urbana,Plano,Curva,Asfalto,Despejado,De Costado,7.Sábado,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Miércoles,8,06:00-11:59,San José,Escazú,San Rafael,310,3,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,4.Miércoles,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Sábado,21,18:00-23:59,San José,Escazú,San Rafael,121,0,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,7.Sábado,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Domingo,17,12:00-17:59,San José,Escazú,San Rafael,105,1,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,1.Domingo,D. Abril
+1,Solo heridos leves,Atropello a persona,2014,Abril,Miércoles,6,06:00-11:59,San José,Escazú,San Rafael,310,5,Nacional,Urbana,Plano,Curva,Asfalto,Despejado,De frente,4.Miércoles,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Miércoles,8,06:00-11:59,San José,Escazú,San Rafael,121,0,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,Angulo recto,4.Miércoles,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Miércoles,13,12:00-17:59,San José,Santa Ana,Santa Ana,121,6,Nacional,Urbana,Plano,Cruce,Asfalto,Lluvia mediana,Angulo recto,4.Miércoles,D. Abril
+1,Con muertos o graves,Colisión con bicicleta,2014,Octubre,Jueves,9,06:00-11:59,Puntarenas,Osa,Palmar,2,255,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,5.Jueves,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Viernes,7,06:00-11:59,Puntarenas,Osa,Puerto Cortés,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Recta,Asfalto,Lluvia escasa,Por detrás,6.Viernes,K. Noviembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Enero,Miércoles,21,18:00-23:59,Cartago,Paraíso,Paraíso,Ignorada,#NULL!,Ignorada,Desconocida,Plano,Cruce,Asfalto,Lluvia escasa,De Costado,4.Miércoles,A. Enero
+1,Solo heridos leves,Salió de la vía,2014,Enero,Viernes,11,06:00-11:59,Cartago,Paraíso,Cachí,224,18,Nacional,Rural,Desconocida,Desconocida,Desconocida,Desconocido,Desconocido,6.Viernes,A. Enero
+1,Solo heridos leves,Atropello a persona,2014,Enero,Domingo,15,12:00-17:59,Cartago,Paraíso,Santiago,10,26,Nacional,Rural,Pendiente,Cruce,Asfalto,Lluvia escasa,Por detrás,1.Domingo,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Domingo,20,18:00-23:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Oscuro,Angulo recto,1.Domingo,A. Enero
+1,Solo heridos leves,Colisión con bicicleta,2014,Febrero,Sábado,18,18:00-23:59,Cartago,Cartago,San Nicolás,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Asfalto,Oscuro,Por detrás,7.Sábado,B. Febrero
+1,Solo heridos leves,Colisión entre vehículos,2014,Febrero,Viernes,20,18:00-23:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,6.Viernes,B. Febrero
+1,Solo heridos leves,Colisión entre vehículos,2014,Marzo,Sábado,19,18:00-23:59,Cartago,Cartago,San Nicolás,2,21,Nacional,Urbana,Plano,Cruce,Asfalto,Oscuro,Angulo recto,7.Sábado,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Martes,18,18:00-23:59,Cartago,Cartago,Guadalupe o Arenilla,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,3.Martes,C. Marzo
+1,Solo heridos leves,Atropello a persona,2014,Marzo,Jueves,9,06:00-11:59,Cartago,Cartago,Occidental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,5.Jueves,C. Marzo
+1,Solo heridos leves,Salió de la vía,2014,Marzo,Viernes,12,12:00-17:59,Cartago,Paraíso,Llanos de Santa Lucía,10,7,Nacional,Urbana,Plano,Curva,Asfalto,Buen tiempo,De Costado,6.Viernes,C. Marzo
+1,Solo heridos leves,Colisión con objeto fijo,2014,Marzo,Sábado,11,06:00-11:59,Cartago,Cartago,Occidental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,7.Sábado,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Martes,17,12:00-17:59,Cartago,Oreamuno,San Rafael,10,4,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Por detrás,3.Martes,C. Marzo
+1,Solo heridos leves,Atropello a persona,2014,Marzo,Miércoles,17,12:00-17:59,Cartago,Cartago,Guadalupe o Arenilla,2,24,Nacional,Urbana,Plano,Curva,Asfalto,Buen tiempo,De frente,4.Miércoles,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Sábado,15,12:00-17:59,Cartago,Cartago,Carmen,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,Angulo recto,7.Sábado,C. Marzo
+1,Con muertos o graves,Atropello a persona,2014,Marzo,Sábado,19,18:00-23:59,Cartago,Oreamuno,San Rafael,10,6,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,7.Sábado,C. Marzo
+1,Solo heridos leves,Colisión con bicicleta,2014,Abril,Sábado,11,06:00-11:59,Cartago,Alvarado,Cervantes,230,13,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,De frente,7.Sábado,D. Abril
+1,Solo heridos leves,Atropello a persona,2014,Abril,Miércoles,17,12:00-17:59,Cartago,Cartago,San Nicolás,219,1,Nacional,Urbana,Pendiente,Curva,Asfalto,Lluvia escasa,De frente,4.Miércoles,D. Abril
+1,Solo heridos leves,Salió de la vía,2014,Abril,Sábado,17,12:00-17:59,Cartago,Cartago,Dulce Nombre,224,3,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De frente,7.Sábado,D. Abril
+1,Solo heridos leves,Atropello a persona,2014,Abril,Martes,14,12:00-17:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,3.Martes,D. Abril
+1,Solo heridos leves,Atropello a persona,2014,Abril,Domingo,9,06:00-11:59,Cartago,Cartago,Oriental,10,2,Nacional,Urbana,Desconocida,Desconocida,Desconocida,Desconocido,De Costado,1.Domingo,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Domingo,12,12:00-17:59,Cartago,Paraíso,Llanos de Santa Lucía,Cantonal,Cantonal,Cantonal,Urbana,Plano,Curva,Asfalto,Buen tiempo,De Costado,1.Domingo,D. Abril
+1,Solo heridos leves,Salió de la vía,2014,Mayo,Domingo,17,12:00-17:59,Cartago,Oreamuno,Cot,402,19,Nacional,Rural,Plano,Curva,Asfalto,Buen tiempo,De frente,1.Domingo,E. Mayo
+1,Solo heridos leves,Otros,2014,Mayo,Domingo,20,18:00-23:59,Cartago,Cartago,Tierra Blanca,401,0,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,1.Domingo,E. Mayo
+1,Solo heridos leves,Colisión con bicicleta,2014,Junio,Sábado,16,12:00-17:59,Cartago,Cartago,Occidental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,7.Sábado,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Domingo,14,12:00-17:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,1.Domingo,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Viernes,17,12:00-17:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,6.Viernes,F. Junio
+1,Solo heridos leves,Caída de algún ocupante,2014,Julio,Viernes,19,18:00-23:59,Cartago,El Guarco,San Isidro,Cantonal,Cantonal,Cantonal,Urbana,Desconocida,Desconocida,Desconocida,Desconocido,Desconocido,6.Viernes,G. Julio
+1,Solo heridos leves,Colisión con bicicleta,2014,Julio,Lunes,11,06:00-11:59,Cartago,Paraíso,Llanos de Santa Lucía,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,2.Lunes,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Viernes,16,12:00-17:59,Cartago,Cartago,San Nicolás,2,22,Nacional,Urbana,Plano,Cruce,Concreto,Lluvia escasa,Por detrás,6.Viernes,I. Setiembre
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Sábado,19,18:00-23:59,Cartago,Cartago,Oriental,Cantonal,Cantonal,Cantonal,Urbana,Desconocida,Desconocida,Desconocida,Desconocido,De Costado,7.Sábado,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Martes,11,06:00-11:59,San José,Escazú,Escazú,105,3,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,Angulo recto,3.Martes,I. Setiembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Setiembre,Lunes,15,12:00-17:59,Cartago,Oreamuno,San Rafael,Ignorada,#NULL!,Ignorada,Desconocida,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,2.Lunes,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Lunes,19,18:00-23:59,Cartago,Cartago,San Nicolás,10,0,Nacional,Urbana,Plano,Cruce,Concreto,Buen tiempo,De Costado,2.Lunes,I. Setiembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Octubre,Domingo,19,18:00-23:59,Cartago,Paraíso,Paraíso,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,Angulo recto,1.Domingo,J. Octubre
+1,Solo heridos leves,Colisión con bicicleta,2014,Octubre,Lunes,16,12:00-17:59,Cartago,Cartago,Occidental,Cantonal,Cantonal,Cantonal,Urbana,Desconocida,Desconocida,Desconocida,Desconocido,Desconocido,2.Lunes,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Sábado,18,18:00-23:59,Cartago,El Guarco,El Tejar,228,3,Nacional,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,De Costado,7.Sábado,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Martes,9,06:00-11:59,Cartago,Cartago,San Nicolás,236,0,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,3.Martes,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Sábado,10,06:00-11:59,Cartago,Paraíso,Llanos de Santa Lucía,10,6,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,7.Sábado,K. Noviembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Noviembre,Domingo,15,12:00-17:59,Cartago,Paraíso,Llanos de Santa Lucía,10,6,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Angulo recto,1.Domingo,K. Noviembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Viernes,7,06:00-11:59,Cartago,Oreamuno,San Rafael,10,6,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,6.Viernes,K. Noviembre
+1,Con muertos o graves,Colisión con motocicleta,2014,Noviembre,Martes,19,18:00-23:59,Cartago,Cartago,Carmen,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,Angulo recto,3.Martes,K. Noviembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Miércoles,14,12:00-17:59,Cartago,Paraíso,Paraíso,224,2,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De Costado,4.Miércoles,K. Noviembre
+1,Solo heridos leves,Atropello a persona,2014,Diciembre,Martes,15,12:00-17:59,Cartago,Oreamuno,San Rafael,10,6,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,3.Martes,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Viernes,20,18:00-23:59,Cartago,Cartago,Oriental,231,1,Nacional,Urbana,Pendiente,Cruce,Concreto,Buen tiempo,De Costado,6.Viernes,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Sábado,15,12:00-17:59,Cartago,El Guarco,El Tejar,228,3,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,7.Sábado,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Martes,17,12:00-17:59,Cartago,Cartago,Carmen,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Cruce,Asfalto,Lluvia escasa,De Costado,3.Martes,L. Diciembre
+1,Solo heridos leves,Atropello a persona,2014,Diciembre,Miércoles,13,12:00-17:59,Cartago,Cartago,Oriental,10,2,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,4.Miércoles,L. Diciembre
+1,Con muertos o graves,Salió de la vía,2014,Febrero,Lunes,15,12:00-17:59,Alajuela,San Mateo,San Mateo,131,1,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,Objeto Fijo,2.Lunes,B. Febrero
+1,Solo heridos leves,Colisión con bicicleta,2014,Marzo,Lunes,18,18:00-23:59,Alajuela,Orotina,Orotina,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,Angulo recto,2.Lunes,C. Marzo
+1,Solo heridos leves,Vuelco,2014,Marzo,Sábado,6,06:00-11:59,Alajuela,Orotina,Coyolar,27,61,Nacional,Rural,Pendiente,Recta,Lastre,Buen tiempo,Otro,7.Sábado,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Domingo,9,06:00-11:59,Alajuela,Orotina,Coyolar,34,5,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,De Costado,1.Domingo,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Domingo,20,18:00-23:59,Puntarenas,Garabito,Tárcoles,34,23,Nacional,Rural,Plano,Curva,Asfalto,Buen tiempo,Angulo recto,1.Domingo,D. Abril
+1,Solo heridos leves,Salió de la vía,2014,Abril,Martes,14,12:00-17:59,Alajuela,Orotina,Coyolar,34,0,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,Otro,3.Martes,D. Abril
+1,Solo heridos leves,Caída de algún ocupante,2014,Abril,Domingo,21,18:00-23:59,Alajuela,Orotina,Coyolar,34,0,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Otro,1.Domingo,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Lunes,17,12:00-17:59,San José,Turrubares,San Pedro,137,26,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De frente,2.Lunes,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Lunes,12,12:00-17:59,Alajuela,Orotina,Coyolar,34,0,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,De Costado,2.Lunes,E. Mayo
+1,Solo heridos leves,Colisión entre vehículos,2014,Mayo,Domingo,20,18:00-23:59,Alajuela,Orotina,El Mastate,757,4,Nacional,Rural,Pendiente,Recta,Asfalto,Oscuro,De Costado,1.Domingo,E. Mayo
+1,Solo heridos leves,Vuelco,2014,Mayo,Sábado,17,12:00-17:59,Alajuela,Orotina,Coyolar,34,3,Nacional,Rural,Plano,Recta,Asfalto,Lluvia intensa,Otro,7.Sábado,E. Mayo
+1,Solo heridos leves,Colisión con bicicleta,2014,Junio,Martes,20,18:00-23:59,Alajuela,Orotina,Orotina,3,66,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Por detrás,3.Martes,F. Junio
+1,Con muertos o graves,Colisión entre vehículos,2014,Junio,Sábado,18,18:00-23:59,Puntarenas,Garabito,Tárcoles,34,19,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,De frente,7.Sábado,F. Junio
+1,Con muertos o graves,Salió de la vía,2014,Junio,Lunes,7,06:00-11:59,Puntarenas,Garabito,Tárcoles,34,25,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,Otro,2.Lunes,F. Junio
+1,Con muertos o graves,Colisión con bicicleta,2014,Agosto,Lunes,14,12:00-17:59,Alajuela,Orotina,La Ceiba,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Curva,Lastre,Buen tiempo,De frente,2.Lunes,H. Agosto
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Jueves,21,18:00-23:59,Alajuela,Orotina,La Ceiba,27,68,Nacional,Rural,Pendiente,Recta,Asfalto,Lluvia escasa,Por detrás,5.Jueves,H. Agosto
+1,Con muertos o graves,Atropello animal,2014,Agosto,Domingo,15,12:00-17:59,Alajuela,Orotina,Orotina,Cantonal,Cantonal,Cantonal,Urbana,Plano,Curva,Asfalto,Buen tiempo,Otro,1.Domingo,H. Agosto
+1,Con muertos o graves,Colisión entre vehículos,2014,Agosto,Domingo,20,18:00-23:59,Alajuela,Orotina,Hacienda Vieja,27,50,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,De frente,1.Domingo,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Viernes,7,06:00-11:59,Puntarenas,Garabito,Tárcoles,34,25,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De Costado,6.Viernes,H. Agosto
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Domingo,12,12:00-17:59,Alajuela,Orotina,Orotina,Cantonal,Cantonal,Cantonal,Urbana,Plano,Otro,Concreto,Buen tiempo,Otro,1.Domingo,I. Setiembre
+1,Solo heridos leves,Vuelco,2014,Setiembre,Lunes,21,18:00-23:59,Puntarenas,Garabito,Jacó,34,26,Nacional,Rural,Pendiente,Recta,Asfalto,Lluvia escasa,Otro,2.Lunes,I. Setiembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Setiembre,Sábado,22,18:00-23:59,Alajuela,Orotina,Coyolar,27,57,Nacional,Rural,Plano,Recta,Asfalto,Lluvia escasa,Por detrás,7.Sábado,I. Setiembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Octubre,Miércoles,19,18:00-23:59,Alajuela,Orotina,El Mastate,757,4,Nacional,Rural,Pendiente,Recta,Asfalto,Buen tiempo,Otro,4.Miércoles,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Domingo,18,18:00-23:59,Alajuela,Orotina,Orotina,757,0,Nacional,Urbana,Plano,Otro,Asfalto,Buen tiempo,Angulo recto,1.Domingo,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Domingo,7,06:00-11:59,Alajuela,Orotina,La Ceiba,27,66,Nacional,Rural,Pendiente,Recta,Asfalto,Buen tiempo,Angulo recto,1.Domingo,L. Diciembre
+1,Solo heridos leves,Vuelco,2014,Diciembre,Miércoles,19,18:00-23:59,Alajuela,Orotina,Coyolar,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Recta,Asfalto,Buen tiempo,Otro,4.Miércoles,L. Diciembre
+1,Solo heridos leves,Atropello a persona,2014,Enero,Martes,19,18:00-23:59,Alajuela,Grecia,San José,107,16,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,De frente,3.Martes,A. Enero
+1,Solo heridos leves,Atropello a persona,2014,Febrero,Viernes,10,06:00-11:59,Alajuela,Grecia,Grecia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,6.Viernes,B. Febrero
+1,Solo heridos leves,Atropello a persona,2014,Marzo,Viernes,17,12:00-17:59,Alajuela,Grecia,Grecia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,6.Viernes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Lunes,10,06:00-11:59,Alajuela,Grecia,Grecia,118,15,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,2.Lunes,C. Marzo
+1,Solo heridos leves,Salió de la vía,2014,Mayo,Viernes,10,06:00-11:59,Alajuela,Grecia,Grecia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,6.Viernes,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Mayo,Sábado,13,12:00-17:59,Alajuela,Grecia,Puente de Piedra,154,3,Nacional,Urbana,Pendiente,Curva,Asfalto,Lluvia intensa,De Costado,7.Sábado,E. Mayo
+1,Solo heridos leves,Atropello a persona,2014,Enero,Jueves,23,18:00-23:59,Alajuela,Alajuela,Carrizal,125,8,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,5.Jueves,A. Enero
+1,Con muertos o graves,Colisión con motocicleta,2014,Enero,Sábado,22,18:00-23:59,Alajuela,Alajuela,Guácima,124,9,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Desconocido,7.Sábado,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Sábado,22,18:00-23:59,Alajuela,Alajuela,Alajuela,130,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,7.Sábado,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Febrero,Domingo,2,00:00-05:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,1.Domingo,B. Febrero
+1,Solo heridos leves,Colisión con objeto fijo,2014,Junio,Lunes,2,00:00-05:59,Alajuela,Alajuela,San José,1,21,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,2.Lunes,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Lunes,0,00:00-05:59,Alajuela,Alajuela,San Antonio,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,2.Lunes,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Domingo,22,18:00-23:59,Alajuela,Alajuela,Río Segundo,3,16,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,Por detrás,1.Domingo,H. Agosto
+1,Con muertos o graves,Colisión con motocicleta,2014,Agosto,Lunes,23,18:00-23:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,2.Lunes,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Viernes,23,18:00-23:59,Alajuela,Alajuela,Guácima,124,10,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,6.Viernes,H. Agosto
+1,Con muertos o graves,Colisión con bicicleta,2014,Agosto,Martes,22,18:00-23:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,3.Martes,H. Agosto
+1,Solo heridos leves,Colisión con bicicleta,2014,Setiembre,Jueves,5,00:00-05:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,5.Jueves,I. Setiembre
+1,Con muertos o graves,Colisión entre vehículos,2014,Setiembre,Martes,22,18:00-23:59,Alajuela,Alajuela,San Rafael,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Curva,Lastre,Buen tiempo,Angulo recto,3.Martes,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Sábado,0,00:00-05:59,Alajuela,Alajuela,Alajuela,124,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,7.Sábado,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Jueves,22,18:00-23:59,Alajuela,Alajuela,San José,118,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,5.Jueves,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Viernes,0,00:00-05:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,6.Viernes,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Domingo,0,00:00-05:59,Alajuela,Alajuela,Río Segundo,3,13,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De frente,1.Domingo,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Sábado,2,00:00-05:59,Alajuela,Alajuela,San José,3,23,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,7.Sábado,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Domingo,22,18:00-23:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,Angulo recto,1.Domingo,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Sábado,22,18:00-23:59,Alajuela,Alajuela,San José,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Angulo recto,7.Sábado,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Sábado,2,00:00-05:59,Alajuela,Alajuela,San Antonio,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,7.Sábado,K. Noviembre
+1,Solo heridos leves,Colisión con objeto fijo,2014,Diciembre,Sábado,1,00:00-05:59,Alajuela,Alajuela,San Isidro,130,1,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De frente,7.Sábado,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Sábado,0,00:00-05:59,Alajuela,Alajuela,Alajuela,153,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,7.Sábado,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Jueves,15,12:00-17:59,San José,Pérez Zeledón,Barú,243,15,Nacional,Rural,Pendiente,Curva,Asfalto,Lluvia mediana,De Costado,5.Jueves,D. Abril
+1,Con muertos o graves,Salió de la vía,2014,Abril,Viernes,15,12:00-17:59,San José,Pérez Zeledón,Barú,243,12,Nacional,Rural,Plano,Curva,Asfalto,Buen tiempo,Otro,6.Viernes,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Junio,Jueves,15,12:00-17:59,San José,Pérez Zeledón,San Isidro de El General,2,136,Nacional,Urbana,Pendiente,Recta,Asfalto,Lluvia escasa,Por detrás,5.Jueves,F. Junio
+1,Solo heridos leves,Colisión con bicicleta,2014,Julio,Sábado,12,12:00-17:59,San José,Pérez Zeledón,San Isidro de El General,2,135,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,De Costado,7.Sábado,G. Julio
+1,Solo heridos leves,Vuelco,2014,Octubre,Lunes,17,12:00-17:59,San José,Pérez Zeledón,Barú,243,18,Nacional,Rural,Pendiente,Recta,Asfalto,Lluvia mediana,De Costado,2.Lunes,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Viernes,0,00:00-05:59,Alajuela,Grecia,Bolívar,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Recta,Asfalto,Buen tiempo,De Costado,6.Viernes,F. Junio
+1,Solo heridos leves,Atropello a persona,2014,Julio,Martes,16,12:00-17:59,Alajuela,Poás,San Pedro,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Lateral en sentido contrario,3.Martes,G. Julio
+1,Con muertos o graves,Colisión con motocicleta,2014,Julio,Domingo,0,00:00-05:59,Alajuela,Grecia,Grecia,154,8,Nacional,Urbana,Plano,Recta,Asfalto,Oscuro,Angulo recto,1.Domingo,G. Julio
+1,Con muertos o graves,Colisión con objeto fijo,2014,Agosto,Domingo,2,00:00-05:59,Alajuela,Alajuela,Alajuela,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,De frente,1.Domingo,H. Agosto
+1,Solo heridos leves,Salió de la vía,2014,Agosto,Lunes,1,00:00-05:59,Alajuela,Grecia,Puente de Piedra,154,2,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De Costado,2.Lunes,H. Agosto
+1,Con muertos o graves,Colisión con motocicleta,2014,Setiembre,Domingo,23,18:00-23:59,Alajuela,Grecia,Grecia,118,16,Nacional,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,De Costado,1.Domingo,I. Setiembre
+1,Con muertos o graves,Colisión con motocicleta,2014,Octubre,Viernes,1,00:00-05:59,Alajuela,Poás,San Pedro,107,8,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,Angulo recto,6.Viernes,J. Octubre
+1,Solo heridos leves,Salió de la vía,2014,Octubre,Martes,3,00:00-05:59,Alajuela,Alajuela,San Antonio,1,20,Nacional,Urbana,Pendiente,Recta,Asfalto,Despejado,De Costado,3.Martes,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Domingo,22,18:00-23:59,Alajuela,Grecia,Grecia,107,21,Nacional,Urbana,Pendiente,Desconocida,Asfalto,Lluvia escasa,Angulo recto,1.Domingo,K. Noviembre
+1,Solo heridos leves,Colisión con objeto fijo,2014,Diciembre,Jueves,0,00:00-05:59,Alajuela,Grecia,San Roque,711,3,Nacional,Urbana,Pendiente,Desconocida,Asfalto,Buen tiempo,De frente,5.Jueves,L. Diciembre
+1,Solo heridos leves,Vuelco,2014,Octubre,Jueves,8,06:00-11:59,Alajuela,Grecia,Puente de Piedra,154,0,Nacional,Rural,Pendiente,Desconocida,Asfalto,Buen tiempo,De Costado,5.Jueves,J. Octubre
+1,Solo heridos leves,Otros,2014,Agosto,Martes,10,06:00-11:59,San José,Pérez Zeledón,Daniel Flores,2,145,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,De frente,3.Martes,H. Agosto
+1,Solo heridos leves,Vuelco,2014,Diciembre,Sábado,17,12:00-17:59,Puntarenas,Buenos Aires,Buenos Aires,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Lastre,Despejado,Otro,7.Sábado,L. Diciembre
+1,Solo heridos leves,Salió de la vía,2014,Noviembre,Martes,16,12:00-17:59,San José,Vázquez de Coronado,Dulce Nombre de Jesús,32,35,Nacional,Rural,Pendiente,Recta,Asfalto,Buen tiempo,De Costado,3.Martes,K. Noviembre
+1,Solo heridos leves,Salió de la vía,2014,Noviembre,Sábado,6,06:00-11:59,Heredia,Santo Domingo,San Miguel,32,5,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,De Costado,7.Sábado,K. Noviembre
+1,Con muertos o graves,Colisión entre vehículos,2014,Noviembre,Lunes,15,12:00-17:59,San José,Vázquez de Coronado,Dulce Nombre de Jesús,32,26,Nacional,Rural,Pendiente,Recta,Asfalto,Buen tiempo,De frente,2.Lunes,K. Noviembre
+1,Con muertos o graves,Salió de la vía,2014,Enero,Viernes,1,00:00-05:59,Puntarenas,Buenos Aires,Brunka,2,184,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Otro,6.Viernes,A. Enero
+1,Con muertos o graves,Salió de la vía,2014,Marzo,Domingo,5,00:00-05:59,Puntarenas,Buenos Aires,Volcán,Cantonal,Cantonal,Cantonal,Rural,Plano,Desconocida,Asfalto,Buen tiempo,Otro,1.Domingo,C. Marzo
+1,Con muertos o graves,Colisión con bicicleta,2014,Marzo,Domingo,15,12:00-17:59,Puntarenas,Buenos Aires,Buenos Aires,246,6,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,Angulo recto,1.Domingo,C. Marzo
+1,Solo heridos leves,Vuelco,2014,Marzo,Sábado,8,06:00-11:59,Puntarenas,Buenos Aires,Buenos Aires,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Lastre,Buen tiempo,Otro,7.Sábado,C. Marzo
+1,Con muertos o graves,Colisión con motocicleta,2014,Marzo,Lunes,17,12:00-17:59,Puntarenas,Buenos Aires,Buenos Aires,2,198,Nacional,Rural,Pendiente,Cruce,Asfalto,Buen tiempo,De frente,2.Lunes,C. Marzo
+1,Solo heridos leves,Caída de algún ocupante,2014,Marzo,Domingo,16,12:00-17:59,Puntarenas,Buenos Aires,Buenos Aires,246,5,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Otro,1.Domingo,C. Marzo
+1,Solo heridos leves,Salió de la vía,2014,Marzo,Domingo,19,18:00-23:59,Puntarenas,Buenos Aires,Buenos Aires,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Curva,Lastre,Buen tiempo,Otro,1.Domingo,C. Marzo
+1,Con muertos o graves,Otros,2014,Abril,Sábado,8,06:00-11:59,Puntarenas,Buenos Aires,Buenos Aires,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Otro,7.Sábado,D. Abril
+1,Con muertos o graves,Colisión con motocicleta,2014,Abril,Sábado,20,18:00-23:59,Puntarenas,Buenos Aires,Potrero Grande,2,220,Nacional,Rural,Pendiente,Desconocida,Asfalto,Lluvia escasa,Por detrás,7.Sábado,D. Abril
+1,Con muertos o graves,Salió de la vía,2014,Mayo,Jueves,21,18:00-23:59,Puntarenas,Buenos Aires,Volcán,2,167,Nacional,Rural,Pendiente,Curva,Asfalto,Lluvia intensa,Otro,5.Jueves,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Viernes,16,12:00-17:59,Puntarenas,Buenos Aires,Buenos Aires,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Desconocida,Lastre,Buen tiempo,Por detrás,6.Viernes,F. Junio
+1,Con muertos o graves,Atropello a persona,2014,Junio,Domingo,13,12:00-17:59,Puntarenas,Buenos Aires,Buenos Aires,246,4,Nacional,Urbana,Plano,Otro,Asfalto,Buen tiempo,De frente,1.Domingo,F. Junio
+1,Solo heridos leves,Colisión con motocicleta,2014,Junio,Lunes,6,06:00-11:59,Puntarenas,Buenos Aires,Buenos Aires,2,196,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De frente,2.Lunes,F. Junio
+1,Solo heridos leves,Vuelco,2014,Junio,Miércoles,23,18:00-23:59,Puntarenas,Buenos Aires,Potrero Grande,2,221,Nacional,Rural,Pendiente,Desconocida,Lastre,Lluvia escasa,Otro,4.Miércoles,F. Junio
+1,Con muertos o graves,Colisión con motocicleta,2014,Julio,Martes,10,06:00-11:59,Puntarenas,Buenos Aires,Brunka,2,186,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De Costado,3.Martes,G. Julio
+1,Con muertos o graves,Colisión con objeto fijo,2014,Agosto,Jueves,1,00:00-05:59,Puntarenas,Buenos Aires,Buenos Aires,246,5,Nacional,Urbana,Plano,Curva,Asfalto,Buen tiempo,De frente,5.Jueves,H. Agosto
+1,Con muertos o graves,Colisión con objeto fijo,2014,Agosto,Lunes,22,18:00-23:59,Puntarenas,Buenos Aires,Buenos Aires,246,5,Nacional,Urbana,Plano,Otro,Asfalto,Buen tiempo,De frente,2.Lunes,H. Agosto
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Martes,17,12:00-17:59,Puntarenas,Buenos Aires,Volcán,2,168,Nacional,Rural,Pendiente,Curva,Asfalto,Lluvia escasa,De frente,3.Martes,I. Setiembre
+1,Con muertos o graves,Colisión con objeto fijo,2014,Setiembre,Viernes,18,18:00-23:59,Puntarenas,Buenos Aires,Buenos Aires,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Tierra,Lluvia mediana,De frente,6.Viernes,I. Setiembre
+1,Solo heridos leves,Vuelco,2014,Febrero,Sábado,16,12:00-17:59,Alajuela,Grecia,Grecia,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,De Costado,7.Sábado,B. Febrero
+1,Solo heridos leves,Atropello a persona,2014,Marzo,Viernes,6,06:00-11:59,Alajuela,Valverde Vega,San Pedro,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Recta,Asfalto,Buen tiempo,De Costado,6.Viernes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Sábado,15,12:00-17:59,Alajuela,Valverde Vega,Sarchí Norte,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,7.Sábado,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Lunes,9,06:00-11:59,Alajuela,Valverde Vega,Sarchí Sur,118,23,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,De frente,2.Lunes,C. Marzo
+1,Solo heridos leves,Vuelco,2014,Junio,Viernes,18,18:00-23:59,Alajuela,Valverde Vega,Sarchí Sur,118,20,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia escasa,Otro,6.Viernes,F. Junio
+1,Solo heridos leves,Colisión con objeto fijo,2014,Julio,Sábado,15,12:00-17:59,Alajuela,Valverde Vega,Sarchí Sur,Cantonal,Cantonal,Cantonal,Rural,Plano,Curva,Asfalto,Buen tiempo,De frente,7.Sábado,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Julio,Lunes,21,18:00-23:59,Alajuela,Valverde Vega,Sarchí Norte,118,23,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,De frente,2.Lunes,G. Julio
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Jueves,10,06:00-11:59,Alajuela,Valverde Vega,Sarchí Sur,118,22,Nacional,Urbana,Pendiente,Curva,Asfalto,Lluvia escasa,Por detrás,5.Jueves,H. Agosto
+1,Con muertos o graves,Vuelco,2014,Agosto,Viernes,18,18:00-23:59,Alajuela,Valverde Vega,Sarchí Norte,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De Costado,6.Viernes,H. Agosto
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Martes,17,12:00-17:59,Alajuela,Valverde Vega,Sarchí Sur,118,23,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia mediana,De Costado,3.Martes,H. Agosto
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Sábado,21,18:00-23:59,Alajuela,Valverde Vega,Sarchí Sur,118,22,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,7.Sábado,H. Agosto
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Martes,17,12:00-17:59,Alajuela,Valverde Vega,Sarchí Sur,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,Por detrás,3.Martes,K. Noviembre
+1,Con muertos o graves,Colisión con motocicleta,2014,Noviembre,Miércoles,19,18:00-23:59,Alajuela,Valverde Vega,Sarchí Norte,118,25,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Otro,4.Miércoles,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Martes,10,06:00-11:59,Alajuela,Valverde Vega,Sarchí Sur,708,0,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,De Costado,3.Martes,K. Noviembre
+1,Solo heridos leves,Atropello a persona,2014,Enero,Jueves,17,12:00-17:59,Alajuela,Grecia,San Isidro,107,19,Nacional,Rural,Plano,Cruce,Adoquin,Despejado,De frente,5.Jueves,A. Enero
+1,Solo heridos leves,Atropello a persona,2014,Agosto,Sábado,21,18:00-23:59,Alajuela,Valverde Vega,Sarchí Sur,708,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,7.Sábado,H. Agosto
+1,Solo heridos leves,Colisión con bicicleta,2014,Setiembre,Jueves,11,06:00-11:59,Alajuela,Grecia,Grecia,118,16,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,5.Jueves,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Martes,12,12:00-17:59,Alajuela,Grecia,Grecia,118,14,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,De frente,3.Martes,K. Noviembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Miércoles,7,06:00-11:59,Alajuela,Grecia,Grecia,Cantonal,Cantonal,Cantonal,Rural,Plano,Cruce,Asfalto,Buen tiempo,De frente,4.Miércoles,K. Noviembre
+1,Con muertos o graves,Atropello a persona,2014,Noviembre,Sábado,13,12:00-17:59,Alajuela,Valverde Vega,Sarchí Norte,Cantonal,Cantonal,Cantonal,Urbana,Plano,Curva,Asfalto,Buen tiempo,Lateral en sentido contrario,7.Sábado,K. Noviembre
+1,Solo heridos leves,Atropello a persona,2014,Noviembre,Martes,14,12:00-17:59,Alajuela,Poás,San Pedro,107,8,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,De Costado,3.Martes,K. Noviembre
+1,Con muertos o graves,Atropello a persona,2014,Noviembre,Viernes,17,12:00-17:59,Alajuela,Grecia,Grecia,Cantonal,Cantonal,Cantonal,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,De Costado,6.Viernes,K. Noviembre
+1,Solo heridos leves,Salió de la vía,2014,Noviembre,Jueves,12,12:00-17:59,Alajuela,Grecia,Grecia,154,7,Nacional,Urbana,Pendiente,Desconocida,Asfalto,Buen tiempo,De frente,5.Jueves,K. Noviembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Martes,13,12:00-17:59,Alajuela,Valverde Vega,Sarchí Norte,Cantonal,Cantonal,Cantonal,Rural,Plano,Recta,Asfalto,Lluvia escasa,De frente,3.Martes,K. Noviembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Domingo,17,12:00-17:59,Alajuela,Grecia,San Roque,118,17,Nacional,Urbana,Plano,Desconocida,Asfalto,Despejado,Por detrás,1.Domingo,L. Diciembre
+1,Solo heridos leves,Atropello a persona,2014,Diciembre,Lunes,15,12:00-17:59,Alajuela,Valverde Vega,Sarchí Norte,118,23,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,De frente,2.Lunes,L. Diciembre
+1,Solo heridos leves,Salió de la vía,2014,Diciembre,Miércoles,10,06:00-11:59,Alajuela,Poás,Sabana Redonda,146,9,Nacional,Rural,Pendiente,Curva,Asfalto,Despejado,Otro,4.Miércoles,L. Diciembre
+1,Con muertos o graves,Salió de la vía,2014,Marzo,Martes,7,06:00-11:59,Heredia,Sarapiquí,Puerto Viejo,507,3,Nacional,Rural,Plano,Curva,Asfalto,Buen tiempo,De frente,3.Martes,C. Marzo
+1,Con muertos o graves,Vuelco,2014,Abril,Sábado,18,18:00-23:59,Heredia,Sarapiquí,Puerto Viejo,Cantonal,Cantonal,Cantonal,Rural,Plano,Recta,Lastre,Buen tiempo,De Costado,7.Sábado,D. Abril
+1,Con muertos o graves,Salió de la vía,2014,Abril,Miércoles,1,00:00-05:59,Heredia,Sarapiquí,Las Horquetas,4,21,Nacional,Rural,Pendiente,Recta,Asfalto,Buen tiempo,De frente,4.Miércoles,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Mayo,Jueves,15,12:00-17:59,Alajuela,Alajuela,Sarapiquí,126,52,Nacional,Rural,Pendiente,Desconocida,Asfalto,Lluvia escasa,De Costado,5.Jueves,E. Mayo
+1,Solo heridos leves,Atropello a persona,2014,Mayo,Domingo,19,18:00-23:59,Heredia,Sarapiquí,Puerto Viejo,507,1,Nacional,Rural,Plano,Desconocida,Asfalto,Buen tiempo,De frente,1.Domingo,E. Mayo
+1,Con muertos o graves,Salió de la vía,2014,Mayo,Jueves,2,00:00-05:59,Heredia,Sarapiquí,Puerto Viejo,505,0,Nacional,Urbana,Plano,Curva,Asfalto,Oscuro,De frente,5.Jueves,E. Mayo
+1,Solo heridos leves,Colisión con bicicleta,2014,Junio,Miércoles,9,06:00-11:59,Heredia,Sarapiquí,Las Horquetas,Cantonal,Cantonal,Cantonal,Rural,Plano,Curva,Asfalto,Buen tiempo,De Costado,4.Miércoles,F. Junio
+1,Solo heridos leves,Colisión con bicicleta,2014,Julio,Martes,22,18:00-23:59,Heredia,Sarapiquí,Las Horquetas,4,20,Nacional,Rural,Plano,Recta,Asfalto,Lluvia intensa,Otro,3.Martes,G. Julio
+1,Solo heridos leves,Salió de la vía,2014,Julio,Jueves,16,12:00-17:59,Heredia,Sarapiquí,Las Horquetas,229,16,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,De frente,5.Jueves,G. Julio
+1,Solo heridos leves,Atropello animal,2014,Julio,Lunes,5,00:00-05:59,Heredia,Sarapiquí,Puerto Viejo,Cantonal,Cantonal,Cantonal,Rural,Plano,Recta,Lastre,Buen tiempo,De frente,2.Lunes,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Sábado,16,12:00-17:59,Heredia,Sarapiquí,Las Horquetas,4,6,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,Por detrás,7.Sábado,H. Agosto
+1,Solo heridos leves,Colisión con bicicleta,2014,Agosto,Miércoles,23,18:00-23:59,Heredia,Sarapiquí,Las Horquetas,4,13,Nacional,Rural,Plano,Recta,Asfalto,Oscuro,Por detrás,4.Miércoles,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Sábado,18,18:00-23:59,Alajuela,Alajuela,Sarapiquí,126,58,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De frente,7.Sábado,I. Setiembre
+1,Solo heridos leves,Atropello a persona,2014,Setiembre,Sábado,21,18:00-23:59,Heredia,Sarapiquí,Las Horquetas,229,15,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,De frente,7.Sábado,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Miércoles,14,12:00-17:59,Heredia,Sarapiquí,Puerto Viejo,4,30,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,4.Miércoles,J. Octubre
+1,Solo heridos leves,Atropello animal,2014,Noviembre,Sábado,6,06:00-11:59,Heredia,Sarapiquí,La Virgen,Ignorada,#NULL!,Ignorada,Desconocida,Plano,Recta,Lastre,Oscuro,De frente,7.Sábado,K. Noviembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Lunes,12,12:00-17:59,Heredia,Sarapiquí,La Virgen,126,66,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De frente,2.Lunes,K. Noviembre
+1,Solo heridos leves,Colisión con objeto fijo,2014,Enero,Domingo,4,00:00-05:59,Guanacaste,Nicoya,Nicoya,21,73,Nacional,Rural,Plano,Recta,Asfalto,Oscuro,De frente,1.Domingo,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Domingo,0,00:00-05:59,Guanacaste,Nicoya,Nicoya,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De frente,1.Domingo,C. Marzo
+1,Con muertos o graves,Vuelco,2014,Marzo,Martes,0,00:00-05:59,Guanacaste,Nicoya,Nicoya,150,27,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Otro,3.Martes,C. Marzo
+1,Solo heridos leves,Salió de la vía,2014,Marzo,Jueves,0,00:00-05:59,Guanacaste,Nandayure,San Pablo,21,109,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,Otro,5.Jueves,C. Marzo
+1,Solo heridos leves,Vuelco,2014,Marzo,Domingo,22,18:00-23:59,Guanacaste,Nicoya,Belén de Nosarita,Cantonal,Cantonal,Cantonal,Rural,Pendiente,Curva,Lastre,Buen tiempo,Otro,1.Domingo,C. Marzo
+1,Con muertos o graves,Atropello a persona,2014,Marzo,Domingo,3,00:00-05:59,Guanacaste,Nicoya,Nicoya,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,1.Domingo,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Martes,22,18:00-23:59,Guanacaste,Nicoya,Nicoya,21,75,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,3.Martes,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Jueves,1,00:00-05:59,Guanacaste,Nicoya,Nicoya,150,26,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,5.Jueves,D. Abril
+1,Solo heridos leves,Colisión con bicicleta,2014,Abril,Lunes,4,00:00-05:59,Guanacaste,Nicoya,Nicoya,150,25,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Otro,2.Lunes,D. Abril
+1,Con muertos o graves,Colisión con bicicleta,2014,Mayo,Jueves,22,18:00-23:59,Guanacaste,Nicoya,Nicoya,150,25,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De frente,5.Jueves,E. Mayo
+1,Solo heridos leves,Vuelco,2014,Junio,Martes,23,18:00-23:59,Guanacaste,Nicoya,Nosara,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Lluvia escasa,Otro,3.Martes,F. Junio
+1,Con muertos o graves,Colisión con motocicleta,2014,Junio,Sábado,0,00:00-05:59,Guanacaste,Nicoya,Nicoya,150,28,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,De Costado,7.Sábado,F. Junio
+1,Con muertos o graves,Colisión con bicicleta,2014,Agosto,Domingo,1,00:00-05:59,Guanacaste,Nandayure,Santa Rita,161,0,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,De frente,1.Domingo,H. Agosto
+1,Con muertos o graves,Colisión con motocicleta,2014,Noviembre,Domingo,1,00:00-05:59,Guanacaste,Nicoya,San Antonio,931,11,Nacional,Rural,Plano,Recta,Lastre,Buen tiempo,De frente,1.Domingo,K. Noviembre
+1,Solo heridos leves,Vuelco,2014,Diciembre,Viernes,1,00:00-05:59,Guanacaste,Nicoya,Sámara,150,60,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,Otro,6.Viernes,L. Diciembre
+1,Solo heridos leves,Vuelco,2014,Diciembre,Lunes,23,18:00-23:59,Guanacaste,Nicoya,Nosara,Cantonal,Cantonal,Cantonal,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,2.Lunes,L. Diciembre
+1,Con muertos o graves,Colisión con motocicleta,2014,Diciembre,Lunes,22,18:00-23:59,Guanacaste,Nicoya,Nicoya,150,2600.00%,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,2.Lunes,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Enero,Lunes,16,12:00-17:59,San José,San José,Uruca,108,3,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Angulo recto,2.Lunes,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Viernes,14,12:00-17:59,San José,San José,Mata Redonda,1,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,6.Viernes,A. Enero
+1,Solo heridos leves,Colisión entre vehículos,2014,Enero,Martes,19,18:00-23:59,Alajuela,Alajuela,Río Segundo,1,13,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Por detrás,3.Martes,A. Enero
+1,Solo heridos leves,Colisión con motocicleta,2014,Enero,Martes,12,12:00-17:59,San José,Montes de Oca,San Pedro,2,5,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,3.Martes,A. Enero
+1,Solo heridos leves,Atropello a persona,2014,Enero,Miércoles,11,06:00-11:59,San José,San José,Pavas,39,2,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,4.Miércoles,A. Enero
+1,Solo heridos leves,Vuelco,2014,Enero,Miércoles,12,12:00-17:59,San José,San José,Uruca,1,3,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De frente,4.Miércoles,A. Enero
+1,Solo heridos leves,Otros,2014,Marzo,Lunes,18,18:00-23:59,San José,San José,Pavas,104,2,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Otro,2.Lunes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Viernes,17,12:00-17:59,San José,San José,Uruca,1,2,Nacional,Urbana,Plano,Rotonda,Asfalto,Buen tiempo,Angulo recto,6.Viernes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Viernes,21,18:00-23:59,San José,San José,Uruca,108,3,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De Costado,6.Viernes,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Domingo,9,06:00-11:59,San José,Santa Ana,Uruca,27,12,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Por detrás,1.Domingo,C. Marzo
+1,Solo heridos leves,Colisión con objeto fijo,2014,Marzo,Lunes,7,06:00-11:59,San José,San José,Mata Redonda,27,0,Nacional,Urbana,Plano,Cruce,Concreto,Buen tiempo,De frente,2.Lunes,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Miércoles,11,06:00-11:59,Heredia,Belén,La Ribera,1,11,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Por detrás,4.Miércoles,D. Abril
+1,Solo heridos leves,Colisión con bicicleta,2014,Abril,Miércoles,20,18:00-23:59,San José,San José,Pavas,104,6,Nacional,Urbana,Pendiente,Recta,Asfalto,Lluvia escasa,De frente,4.Miércoles,D. Abril
+1,Solo heridos leves,Vuelco,2014,Abril,Viernes,17,12:00-17:59,San José,San José,Mata Redonda,27,2,Nacional,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,De frente,6.Viernes,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Lunes,9,06:00-11:59,San José,San José,Uruca,1,1,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,2.Lunes,D. Abril
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Lunes,8,06:00-11:59,San José,San José,Uruca,3,0,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,Angulo recto,2.Lunes,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Mayo,Sábado,12,12:00-17:59,San José,San José,Uruca,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Por detrás,7.Sábado,E. Mayo
+1,Solo heridos leves,Colisión entre vehículos,2014,Mayo,Lunes,16,12:00-17:59,Alajuela,Alajuela,Río Segundo,1,13,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,2.Lunes,E. Mayo
+1,Solo heridos leves,Colisión entre vehículos,2014,Mayo,Lunes,21,18:00-23:59,Heredia,Belén,La Asunción,1,9,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,2.Lunes,E. Mayo
+1,Con muertos o graves,Colisión con motocicleta,2014,Mayo,Jueves,12,12:00-17:59,San José,San José,Uruca,39,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Por detrás,5.Jueves,E. Mayo
+1,Solo heridos leves,Vuelco,2014,Mayo,Miércoles,14,12:00-17:59,San José,San José,Uruca,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Curva,Asfalto,Lluvia intensa,De frente,4.Miércoles,E. Mayo
+1,Solo heridos leves,Vuelco,2014,Junio,Miércoles,10,06:00-11:59,Alajuela,Alajuela,Río Segundo,1,13,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,4.Miércoles,F. Junio
+1,Solo heridos leves,Colisión entre vehículos,2014,Julio,Miércoles,16,12:00-17:59,San José,San José,Uruca,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Asfalto,Lluvia escasa,Angulo recto,4.Miércoles,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Viernes,18,18:00-23:59,San José,San José,Pavas,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Curva,Asfalto,Buen tiempo,Angulo recto,6.Viernes,G. Julio
+1,Solo heridos leves,Colisión con motocicleta,2014,Agosto,Viernes,18,18:00-23:59,San José,San José,Pavas,39,2,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,Angulo recto,6.Viernes,H. Agosto
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Sábado,13,12:00-17:59,San José,San José,Mata Redonda,104,1,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Por detrás,7.Sábado,H. Agosto
+1,Solo heridos leves,Colisión entre vehículos,2014,Agosto,Martes,18,18:00-23:59,San José,San José,Mata Redonda,Cantonal,Cantonal,Cantonal,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,3.Martes,H. Agosto
+1,Solo heridos leves,Colisión con objeto fijo,2014,Agosto,Martes,12,12:00-17:59,San José,San José,Uruca,1,1,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,3.Martes,H. Agosto
+1,Con muertos o graves,Colisión con motocicleta,2014,Agosto,Viernes,10,06:00-11:59,San José,San José,Uruca,1,4,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Por detrás,6.Viernes,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Martes,17,12:00-17:59,San José,San José,Uruca,3,0,Nacional,Urbana,Pendiente,Cruce,Asfalto,Buen tiempo,Angulo recto,3.Martes,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Viernes,12,12:00-17:59,San José,San José,Uruca,1,2,Nacional,Urbana,Plano,Rotonda,Asfalto,Buen tiempo,Angulo recto,6.Viernes,I. Setiembre
+1,Solo heridos leves,Colisión con objeto fijo,2014,Setiembre,Jueves,20,18:00-23:59,Heredia,Heredia,Ulloa,1,7,Nacional,Urbana,Pendiente,Recta,Asfalto,Lluvia mediana,De frente,5.Jueves,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Sábado,18,18:00-23:59,San José,San José,Uruca,1,2,Nacional,Urbana,Plano,Cruce,Asfalto,Neblina escasa,De Costado,7.Sábado,I. Setiembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Octubre,Domingo,6,06:00-11:59,San José,San José,Uruca,108,3,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De Costado,1.Domingo,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Octubre,Domingo,12,12:00-17:59,San José,San José,Uruca,1,1,Nacional,Urbana,Pendiente,Recta,Concreto,Lluvia mediana,Por detrás,1.Domingo,J. Octubre
+1,Solo heridos leves,Colisión con motocicleta,2014,Noviembre,Viernes,14,12:00-17:59,San José,San José,Mata Redonda,1,0,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,6.Viernes,K. Noviembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Viernes,19,18:00-23:59,San José,San José,Uruca,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Recta,Asfalto,Lluvia escasa,De Costado,6.Viernes,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Lunes,6,06:00-11:59,San José,San José,Uruca,1,5,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,2.Lunes,L. Diciembre
+1,Solo heridos leves,Colisión con motocicleta,2014,Diciembre,Lunes,18,18:00-23:59,San José,San José,Uruca,108,5,Nacional,Urbana,Pendiente,Desconocida,Asfalto,Buen tiempo,De Costado,2.Lunes,L. Diciembre
+1,Solo heridos leves,Vuelco,2014,Diciembre,Sábado,20,18:00-23:59,San José,San José,Uruca,108,3,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,De Costado,7.Sábado,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Domingo,19,18:00-23:59,San José,San José,Uruca,3,0,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Por detrás,1.Domingo,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Febrero,Sábado,17,12:00-17:59,Puntarenas,Puntarenas,Chomes,1,119,Nacional,Rural,Pendiente,Recta,Asfalto,Buen tiempo,Por detrás,7.Sábado,B. Febrero
+1,Solo heridos leves,Colisión con motocicleta,2014,Marzo,Sábado,21,18:00-23:59,Puntarenas,Esparza,Macacona,1,85,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,7.Sábado,C. Marzo
+1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Miércoles,19,18:00-23:59,Puntarenas,Esparza,Espíritu Santo,1,87,Nacional,Urbana,Plano,Desconocida,Asfalto,Buen tiempo,Angulo recto,4.Miércoles,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Viernes,16,12:00-17:59,Puntarenas,Puntarenas,Pitahaya,1,109,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,Por detrás,6.Viernes,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Sábado,15,12:00-17:59,Puntarenas,Esparza,Espíritu Santo,1,91,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Por detrás,7.Sábado,D. Abril
+1,Solo heridos leves,Salió de la vía,2014,Abril,Domingo,14,12:00-17:59,Alajuela,San Ramón,Santiago,1,71,Nacional,Rural,Pendiente,Curva,Asfalto,Lluvia escasa,De frente,1.Domingo,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Lunes,15,12:00-17:59,Puntarenas,Puntarenas,Acapulco,1,113,Nacional,Rural,Pendiente,Desconocida,Asfalto,Lluvia escasa,Por detrás,2.Lunes,D. Abril
+1,Solo heridos leves,Atropello a persona,2014,Mayo,Sábado,19,18:00-23:59,Puntarenas,Esparza,Macacona,1,81,Nacional,Rural,Plano,Desconocida,Asfalto,Lluvia escasa,De frente,7.Sábado,E. Mayo
+1,Solo heridos leves,Colisión con bicicleta,2014,Mayo,Martes,18,18:00-23:59,Puntarenas,Esparza,Espíritu Santo,1,86,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,De frente,3.Martes,E. Mayo
+1,Solo heridos leves,Vuelco,2014,Mayo,Domingo,17,12:00-17:59,Puntarenas,Puntarenas,Chomes,1,120,Nacional,Rural,Pendiente,Recta,Asfalto,Lluvia escasa,De frente,1.Domingo,E. Mayo
+1,Solo heridos leves,Colisión con motocicleta,2014,Julio,Miércoles,16,12:00-17:59,Puntarenas,Esparza,Macacona,1,85,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Lateral igual sentido,4.Miércoles,G. Julio
+1,Con muertos o graves,Colisión entre vehículos,2014,Agosto,Viernes,18,18:00-23:59,Alajuela,San Ramón,Santiago,1,67,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De frente,6.Viernes,H. Agosto
+1,Solo heridos leves,Colisión con motocicleta,2014,Setiembre,Miércoles,14,12:00-17:59,Puntarenas,Esparza,Espíritu Santo,1,90,Nacional,Urbana,Pendiente,Recta,Asfalto,Buen tiempo,Angulo recto,4.Miércoles,I. Setiembre
+1,Solo heridos leves,Vuelco,2014,Setiembre,Miércoles,18,18:00-23:59,Puntarenas,Esparza,Espíritu Santo,131,19,Nacional,Urbana,Pendiente,Recta,Asfalto,Lluvia escasa,De Costado,4.Miércoles,I. Setiembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Octubre,Lunes,18,18:00-23:59,Puntarenas,Puntarenas,Barranca,1,91,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia mediana,Lateral igual sentido,2.Lunes,J. Octubre
+1,Solo heridos leves,Colisión entre vehículos,2014,Noviembre,Domingo,18,18:00-23:59,Puntarenas,Puntarenas,Barranca,1,95,Nacional,Rural,Pendiente,Recta,Asfalto,Buen tiempo,Por detrás,1.Domingo,K. Noviembre
+1,Con muertos o graves,Atropello a persona,2014,Diciembre,Viernes,17,12:00-17:59,Puntarenas,Esparza,Espíritu Santo,Cantonal,Cantonal,Cantonal,Urbana,Pendiente,Cruce,Concreto,Buen tiempo,De frente,6.Viernes,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Jueves,18,18:00-23:59,Puntarenas,Esparza,San Rafael,131,15,Nacional,Rural,Plano,Recta,Asfalto,Buen tiempo,Por detrás,5.Jueves,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Diciembre,Viernes,20,18:00-23:59,Alajuela,San Ramón,Santiago,1,64,Nacional,Rural,Pendiente,Curva,Asfalto,Buen tiempo,De frente,6.Viernes,L. Diciembre
+1,Solo heridos leves,Colisión con bicicleta,2014,Diciembre,Jueves,19,18:00-23:59,Puntarenas,Puntarenas,El Roble,17,3,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De Costado,5.Jueves,L. Diciembre
+1,Solo heridos leves,Vuelco,2014,Diciembre,Jueves,19,18:00-23:59,Puntarenas,Montes de Oro,San Isidro,1,96,Nacional,Rural,Pendiente,Recta,Asfalto,Buen tiempo,De frente,5.Jueves,L. Diciembre
+1,Solo heridos leves,Colisión entre vehículos,2014,Enero,Miércoles,17,12:00-17:59,Limón,Pococí,Guápiles,32,43,Nacional,Rural,Plano,Recta,Asfalto,Despejado,Por detrás,4.Miércoles,A. Enero
+1,Solo heridos leves,Salió de la vía,2014,Febrero,Domingo,7,06:00-11:59,Limón,Guácimo,Guácimo,32,77,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,Otro,1.Domingo,B. Febrero
+1,Solo heridos leves,Colisión con bicicleta,2014,Febrero,Viernes,12,12:00-17:59,Limón,Siquirres,Pacuarito,32,106,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,Angulo recto,6.Viernes,B. Febrero
+1,Con muertos o graves,Atropello a persona,2014,Febrero,Viernes,18,18:00-23:59,Limón,Guácimo,Pocora,32,83,Nacional,Urbana,Plano,Cruce,Asfalto,Buen tiempo,Angulo recto,6.Viernes,B. Febrero
+1,Solo heridos leves,Salió de la vía,2014,Febrero,Sábado,7,06:00-11:59,Limón,Matina,Matina,805,12,Nacional,Rural,Plano,Recta,Otros,Buen tiempo,Otro,7.Sábado,B. Febrero
+1,Solo heridos leves,Colisión con bicicleta,2014,Marzo,Lunes,6,06:00-11:59,Limón,Pococí,Guápiles,32,49,Nacional,Rural,Plano,Recta,Asfalto,Lluvia escasa,Lateral igual sentido,2.Lunes,C. Marzo
+1,Con muertos o graves,Atropello a persona,2014,Marzo,Sábado,14,12:00-17:59,Limón,Siquirres,Siquirres,10,89,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,Angulo recto,7.Sábado,C. Marzo
+1,Con muertos o graves,Salió de la vía,2014,Marzo,Sábado,21,18:00-23:59,Limón,Pococí,Guápiles,32,44,Nacional,Rural,Pendiente,Curva,Asfalto,Lluvia escasa,Otro,7.Sábado,C. Marzo
+1,Solo heridos leves,Colisión entre vehículos,2014,Abril,Jueves,9,06:00-11:59,Limón,Siquirres,Pacuarito,32,106,Nacional,Urbana,Plano,Recta,Asfalto,Despejado,De Costado,5.Jueves,D. Abril
+1,Solo heridos leves,Colisión entre vehículos,2014,Junio,Viernes,7,06:00-11:59,Limón,Guácimo,Guácimo,32,76,Nacional,Urbana,Plano,Cruce,Asfalto,Despejado,Por detrás,6.Viernes,F. Junio
+1,Con muertos o graves,Colisión entre vehículos,2014,Junio,Sábado,14,12:00-17:59,Limón,Guácimo,Guácimo,32,76,Nacional,Urbana,Plano,Cruce,Asfalto,Lluvia escasa,Por detrás,7.Sábado,F. Junio
