@@ -1,4 +1,4 @@
-﻿A_Accidente,Clase de accidente,Tipo de accidente,Año,Mes,Día,Hora,Hora recodificada,Provincia,Cantón,Distrito,Ruta,Kilómetro,Tipo ruta,Rural o urbano,Calzada vertical,Calzada horizontal,Tipo de calzada,Estado del tiempo,Tipo de circulación,Dia,Mes
+﻿A_Accidente,Clase de accidente,Tipo de accidente,Año,Mes,Día,Hora,Hora recodificada,Provincia,Canton,Distrito,Ruta,Kilómetro,Tipo ruta,Rural o urbano,Calzada vertical,Calzada horizontal,Tipo de calzada,Estado del tiempo,Tipo de circulación,Dia,Mes
 1,Con muertos o graves,Salió de la vía,2015,Enero,Domingo,21,18:00-23:59,Puntarenas,Coto Brus,Sabalito,617,11,Nacional,Urbana,Desconocida,Curva,Asfalto,Oscuro,Objeto Fijo,1.Domingo,A. Enero
 1,Solo heridos leves,Atropello a persona,2014,Abril,Jueves,8,06:00-11:59,San José,San José,Hospital,2,2,Nacional,Urbana,Plano,Recta,Asfalto,Buen tiempo,De frente,5.Jueves,D. Abril
 1,Solo heridos leves,Colisión con motocicleta,2014,Abril,Lunes,17,12:00-17:59,San José,San José,Uruca,1,4,Nacional,Urbana,Plano,Recta,Asfalto,Lluvia intensa,Por detrás,2.Lunes,D. Abril
